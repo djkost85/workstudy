@@ -1,0 +1,16 @@
+<?php
+
+$array = array("中国","老家","参海","海军");
+  foreach ($array as $key=>$value)
+   {
+       $new_array[$key] = iconv('UTF-8', 'GBK', $value);
+   }
+   asort($new_array);
+   foreach ($new_array as $key=>$value)
+   {
+       $v[$key] = iconv('GBK', 'UTF-8', $value);
+   }
+
+var_dump($new_array); //GBK格式
+var_dump($v);//utf8格式
+?>

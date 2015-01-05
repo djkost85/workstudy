@@ -1,0 +1,12 @@
+ $uri = "http://orders.sherwoodforestfarms.com:8080/testsffweb/engine/CsvOrderImportController";
+ $data = array(
+      'id'  => 1,
+      'customer_number' => 10000,
+       );
+
+ $ch = curl_init();
+ curl_setopt($ch, CURLOPT_URL, $uri);
+ curl_setopt($ch, CURLOPT_POST, 1);
+ //curl_setopt($ch, CURLOPT_HEADER,1);
+ curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+ curl_exec($ch);

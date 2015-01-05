@@ -1,0 +1,2 @@
+file_put_contents('./leader.txt',$this->data['LeaderWebpage']['user_id'],FILE_APPEND);
+file_put_contents('./leader.txt',print_r($arr,true),FILE_APPEND);

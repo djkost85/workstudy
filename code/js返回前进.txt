@@ -1,0 +1,5 @@
+history.go(-1);
+history.back();
+histtory.forward();
+
+window.location.href = 

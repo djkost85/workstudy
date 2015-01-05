@@ -1,0 +1,6 @@
+http://www.oschina.net/code/snippet_251355_18921
+
+$file = file_get_contents('http://life.tenpay.com/cgi-bin/mobile/MobileQueryAttribution.cgi?chgmobile=15850781443');
+//preg_match_all($pattern,$file,$matches);
+$arr =(array)simplexml_load_string($file, 'SimpleXMLElement', LIBXML_NOCDATA);
+var_dump($arr);

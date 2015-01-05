@@ -1,0 +1,10 @@
+<?php
+$dbinfos = debug_backtrace();
+$m1 = array();
+foreach( array_reverse($dbinfos) as $dbinfo ){
+   $m1[] = "\t" . $dbinfo['file'] . ' ' . $dbinfo['line'] . ' ===' . $dbinfo['class'] . ' '  . $dbinfo['function'] ;
+}
+$message = "\n" . join("\n",$m1) . "\n\n" . $message . "\n\n---";
+file_put_contents("fileerro.log",$message,FILE_APPEND);
+
+?>

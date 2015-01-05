@@ -1,0 +1,11 @@
+----------shell
+1.上传文件到backup文件夹
+2.vi backup.sh
+3.:set ff 查看格式  :set fileformat=unix   :wq
+4.:set ff查看格式
+5./var/www/backup/backup.sh运行
+
+---------crontab
+1.crontab -l
+2.cron -e
+3.*/5 * * * * /var/www/backup/backup.sh

@@ -1,0 +1,5 @@
+$t1 = microtime();
+//coding
+$t2 = microtime();
+
+echo $t2-$t1;

@@ -1,0 +1,8 @@
+AuthType Basic
+AuthName "Shanghaidev.net"
+AuthUserFile "E:/wamp/www/.pass"
+require valid-user
+
+htpasswd -cmb .pass guest clbAuth20141217
+生成.pass文件以及加密密码
+

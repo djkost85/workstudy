@@ -1,0 +1,3 @@
+header('Content-type:text/html;charset=utf8');
+
+mb_substr($str,$i,1,'utf8');

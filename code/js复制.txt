@@ -1,0 +1,38 @@
+<script type="text/javascript" src="http://davidwalsh.name/demo/mootools.1.2.3.js"></script>
+<script type="text/javascript" src="http://davidwalsh.name/demo/ZeroClipboard.js"></script>
+
+<div class="demo-wrapper" style="display:block">
+
+	<div style="position:relative;">
+		<a href="javascript:;" id="copy" style="display:block;" class="">Copy</a>
+	</div>
+		<input type="button" id="copy" name="copy" value="Copy to Clipboard" style="margin-top:-10px;display:none">
+	
+	<textarea name="box-content" id="box-content" rows="5" cols="70">The David Walsh Blog is the best blog around!  MooTools FTW!
+	</textarea>
+	<br><br>
+	
+	<script type="text/javascript">
+		window.addEvent("load",function() {
+			
+			setTimeout(function() {
+				//set path
+				ZeroClipboard.setMoviePath('http://davidwalsh.name/dw-content/ZeroClipboard.swf');
+				//create client
+				var clip = new ZeroClipboard.Client();
+				//event
+				clip.addEventListener('mousedown',function() {
+					clip.setText(document.getElementById('box-content').value);
+				});
+				clip.addEventListener('complete',function(client,text) {
+					alert('copied: ' + text);
+				});
+				//glue it to the button
+				clip.glue('copy');
+			}, 2000);
+			
+		});
+		
+	</script>
+	
+</div>
