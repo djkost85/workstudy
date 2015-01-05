@@ -1,0 +1,37 @@
+$sql = 'select month from vip_orders where id = '.$orderId;
+  $result = db_query($sql)->fetchAll();
+	
+// 插入
+    $fields = array('nid' => 1, 'title' => 'my title', 'body' => 'my body');
+    db_insert('module')->fields($fields)->execute();
+
+// 更新
+    db_update('example')
+      ->condition('id', $id)
+      ->fields(array('field2' => 10))
+      ->execute();
+
+// 选择
+	获取单行：
+	$nbr_records = db_query("SELECT count(nid) FROM {joke}")->fetchField();
+
+	--------
+	获取多行：
+	// 获取 node 表中类型=page && 状态=1 的所有记录的标题
+	$type = 'page';
+	$status = 1;
+ 
+	$result = db_query("SELECT nid, title FROM {node} WHERE type = :type AND status = :status",
+	array(
+ 	 ':type' => $type, ':status' => 1,
+	));
+
+	foreach ($result as $row) {  
+  	 echo $row->title."
+	";
+	}
+
+//删除
+    $num_deleted = db_delete('joke')
+    ->condition('punchline', 'Take my wife please!')
+    ->execute();

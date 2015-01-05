@@ -1,0 +1,18 @@
+1.本地环境git / ssh上打包数据库/本地mysql/bin目录下执行
+mysqldump -uroot -p -hlocalhost sfftest|gzip>sfftest.sql.gz
+
+2.上传文件到服务器
+gzip -d /home/achang/websites/test_sffutil/sfftest.sql.gz
+
+3.执行导入命令
+mysql -uweb_user  -p -h192.168.1.153 testsffweb < sfftest.sql
+
+或者在mysql环境下输入
+>>use testsffweb 
+>>source d:/sfftest.sql
+
+
+导出特定表
+E:\mysql\bin>mysqldump -ujava -pweb test --tables user，userinfo>G:\docstore.sql
+
+mysqldump -uroot -p test --ignore-table=test.a --ignore-table=test.a2 >a.sql;

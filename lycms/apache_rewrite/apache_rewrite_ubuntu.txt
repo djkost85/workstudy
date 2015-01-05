@@ -1,0 +1,14 @@
+sudo a2enmod rewrite   开启rewrite模块、
+
+查找文件
+find . -name '*.conf' | xargs grep 'AllowOverride None'
+vi /etc/apache2/apache2.conf
+
+
+绑定域名到指定目录
+vi etc/apache2/sites-available/000-default.conf
+
+重启apache
+/etc/init.d/apache2 restart  
+
+lycms001.conf /etc/apache2/sites-available  /etc/apache2/sites-enable  都要放置

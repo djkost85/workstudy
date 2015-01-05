@@ -1,0 +1,34 @@
+TRUNCATE `cache`;
+TRUNCATE `cache_block`;
+TRUNCATE `cache_bootstrap`;
+TRUNCATE `cache_field`;
+TRUNCATE `cache_filter`;
+TRUNCATE `cache_form`;
+TRUNCATE `cache_image`;
+TRUNCATE `cache_libraries`;
+TRUNCATE `cache_mailchimp_user`;
+TRUNCATE `cache_mailigen_user`;
+TRUNCATE `cache_menu`;
+TRUNCATE `cache_page`;
+TRUNCATE `cache_path`;
+TRUNCATE `cache_rules`;
+TRUNCATE `cache_token`;
+TRUNCATE `cache_update`;
+TRUNCATE `cache_views`;
+TRUNCATE `cache_views_data`;
+
+cp -r solr-4.4.0/example/solr/* /opt/solr/
+cp solr-4.4.0/example/webapps/solr.war /opt/solr/
+cp -r solr-4.4.0/example/lib/ext/* /var/lib/tomcat6/shared/
+
+
+current_search
+block_current_search
+
+ 
+
+上海市静安区
+
+长乐路672弄33号A405
+
+(+86) 400 920 5009
