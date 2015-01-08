@@ -1,0 +1,39 @@
+1、打开Apache2.2\conf\httpd.conf，把#Include conf/extra/httpd-vhosts.conf前面的“#”去掉。
+
+2、打开Apache2.2\conf\extra\httpd-vhosts.conf，写上：
+
+ 
+
+<VirtualHost *:80> 
+
+ DocumentRoot "E:/wamp/www" 
+
+ ServerName  localhost 
+
+ ServerAlias  localhost 
+
+</VirtualHost> 
+
+
+<VirtualHost *:80> 
+
+ DocumentRoot "E:/wamp/www/art004" 
+
+ ServerName  art004.local 
+
+ ServerAlias art004.local www.art004.local 
+
+ ErrorLog "logs/art004-error.log" 
+
+ CustomLog "logs/art004-access.log" common 
+
+</VirtualHost>
+
+ 
+
+3.system32-drivers-etc
+
+ 
+
+127.0.0.1       www.art004.local
+

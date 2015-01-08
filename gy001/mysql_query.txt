@@ -1,0 +1,17 @@
+header("Access-Control-Allow-Origin: *");
+header("Content-Type: application/json; charset=UTF-8");
+
+$conn =@mysql_connect('localhost','root','');
+mysql_select_db('gy001',$conn);
+mysql_query('set names utf8');
+$result = mysql_query("SELECT * FROM stock",$conn);
+$outp = "[{";
+while ($row = mysql_fetch_assoc($result)) {
+    foreach($row as $k=>$v){
+        $outp.='"'.$k.'":"'.$v.'",';
+    }
+}
+$outp = substr($outp,0,-1);
+$outp .="]}";
+echo($outp);
+         

@@ -1,0 +1,17 @@
+
+?将文件从版本库和本地同时删除
+?git rm a.txt
+?git commit –m “delete a.txt”
+
+?将文件从版本库中删除保留本地文件
+?git rm –-cached a.txt
+?git commit –m “delete a.txt”
+
+
+文件夹改名
+mv oldfolder newfolder
+git add newfolder
+git remove oldfolder
+ 
+解决冲突后提交
+rm -rf .git/MERGE*

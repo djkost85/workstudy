@@ -1,0 +1,63 @@
+重启php-fpm
+/etc/init.d/php-fpm restart
+
+查看mysql进程：
+ps -ef|grep mysqld
+
+打包文件排除文件夹内某类文件
+tar -czf test.tar.gz test/* --exclude *.jpg
+
+
+查看服务器操作系统版本
+uname -a
+cat /proc/version
+
+du -sh   查看目录文件大小
+
+cp -r dir1 dir2   复制整个目录
+
+
+
+1. set命令可以显示出当前shell下所有全局参量定义及其值;
+ 
+2. 查找并删除当前目录下小文件：
+find . -type f -size -10k -exec rm {} \;
+说明： www.2cto.com  
+-type f 查找文件
+-size -10k，
+小于10k的。"＋"是表示要求系统只列出大于指定大小的文件，而使用"-"则表示要求系统列出小于指定大小的文件。
+ 
+3. 遍历文件夹grep一个字符串
+find . -name "*c" | xargs grep "strings"
+在当前文件夹下所有c文件中查找字符串“string”
+ 
+4. 在某目录下文件中查找某字符串
+grep -r youcode dir
+例如：查找home下文件中查找hello
+grep -r hello /home
+例如：在当前所有目录下文件中查找hello，不区分大小写
+grep -ir hello .  www.2cto.com  
+从文件内容查寻匹配指定字符串的行：
+ 
+$ grep "被查寻的字符串" 文件名
+ 
+从文件内容查寻与正则表达式匹配的行：
+ 
+$ grep –e “正则表达式” 文件名
+ 
+查寻时不区分大小写：
+ 
+$ grep –i "被查寻的字符串" 文件名
+ 
+查寻匹配的行数：
+ 
+      www.2cto.com  
+$ grep -c "被查寻的字符串" 文件名
+ 
+从文件内容查寻不匹配指定字符串的行：
+ 
+$ grep –v "被查寻的字符串" 文件名
+ 
+从根目录开始查寻所有扩展名为.log的文本文件，并找出包罗”ERROR”的行
+
+grep -ir 'forestfarm' *

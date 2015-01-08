@@ -1,0 +1,23 @@
+images图片
+<?php echo $this->getSkinUrl(); ?>images
+<?php echo $this->getSkinUrl("images/logo.jpg"); ?>
+
+magento主页
+<?php echo $this->getUrl('') ?>
+
+
+cms中：
+<img src="{{skin url='images/logo'}}" />
+cms里面添加链接：
+<a href="{{store url="about-us"}}">About Us</a>
+
+
+模板里面添加链接：
+<?php echo $this->getUrl('customer/account/login'); ?>   表示用户登录页面
+
+
+Mage::getBaseDir('media') . DS . 'customoptions' . DS . $imagePath;
+
+URL操作
+Mage::getUrl('helloworld/index/index',array('id'=>2,'s'=>3));
+$this->_redirect('helloworld/index/index',array('id'=>2,'s'=>3));

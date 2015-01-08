@@ -1,0 +1,31 @@
+导入Mysql文件：source d:\art004.sql;
+
+连接数据库：mysql -u  root -p password -h localhost
+
+显示所有数据库：show databases;
+
+选取数据库：  use [database];
+
+显示所有的数据表：show tables;
+
+显示数据表： describe [table];  
+
+删除：drop  table [table]
+
+创建数据库：create database user default character utf8;
+
+插入： insert into [table] set [col1]="col1",[col2]="col2";
+
+更新： update [table] set [col1]='col1' where id='1';
+
+创建表：create table auto_user(id int not null primary key auto_increment,name char(30) not null default '')engine myisam default charset utf8；
+
+重命名表：alter table think_form rename think_form1;
+
+增加列 : alter table dede_archives add(test char(10));
+
+修改列 : alter table dede_archives modify writer char(20) not null;
+
+创建表： show create table cake_users;
+
+创数据库：show create database cakeshop;
