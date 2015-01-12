@@ -1,0 +1,22 @@
+<script>
+
+      jQuery(function(){
+          var base_url = "<?php print $GLOBALS['base_url'];?>";
+          jQuery('.ajaxlogin').click(function(){
+              jQuery.ajax({
+                  type:'POST',
+                  async:false,
+                  url: base_url+"/logintoUS",
+                  success:function(data){
+                      var rs=eval('('+data+')');
+                      if(rs.role_id==4){
+                          window.location.href='http://www.consumerlab.com/CN_Auth.asp?user_email='+rs.user_email+'&rand_num='+rs.rand_num;
+                      }else{
+                          window.location.href='http://www.consumerlab.com/';
+                      }
+
+                  }});
+          });
+
+      });
+  </script>
