@@ -1,9 +1,0 @@
-function logintoUS(){
-       $arr=array(
-                'user_email'=>$user->mail,
-                'rand_num'=>$rand_num,
-                'role_id' =>$role_id
-        );
-        echo json_encode($arr);
-    
-}

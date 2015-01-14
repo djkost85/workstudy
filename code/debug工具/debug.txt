@@ -8,3 +8,5 @@ $message = "\n" . join("\n",$m1) . "\n\n" . $message . "\n\n---";
 file_put_contents("fileerro.log",$message,FILE_APPEND);
 
 ?>
+
+2015/1/12 9:59:37
