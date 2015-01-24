@@ -1,0 +1,8000 @@
+Array
+(
+    [ZH013500] => Array
+        (
+            [symbol] => ZH013500
+            [market] => cn
+            [name] => 第一实验仓
+            [net_value] => 1.2163
+            [daily_gain] => -1.55
+            [monthly_gain] => 1.68
+            [total_gain] => 21.63
+            [annualized_gain] => 21.63
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013501] => Array
+        (
+            [symbol] => ZH013501
+            [market] => cn
+            [name] => 非激进保本型
+            [net_value] => 0.9993
+            [daily_gain] => 1.20
+            [monthly_gain] => 8.78
+            [total_gain] => -0.07
+            [annualized_gain] => -0.07
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013502] => Array
+        (
+            [symbol] => ZH013502
+            [market] => cn
+            [name] => 挑战者1号
+            [net_value] => 1.2304
+            [daily_gain] => -0.17
+            [monthly_gain] => 1.99
+            [total_gain] => 23.04
+            [annualized_gain] => 23.04
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013503] => Array
+        (
+            [symbol] => ZH013503
+            [market] => cn
+            [name] => 重响
+            [net_value] => 1.0862
+            [daily_gain] => 0.00
+            [monthly_gain] => -3.53
+            [total_gain] => 8.62
+            [annualized_gain] => 8.62
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013504] => Array
+        (
+            [symbol] => ZH013504
+            [market] => cn
+            [name] => 投资未来
+            [net_value] => 1.1086
+            [daily_gain] => 4.52
+            [monthly_gain] => 12.76
+            [total_gain] => 10.86
+            [annualized_gain] => 10.86
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013505] => Array
+        (
+            [symbol] => ZH013505
+            [market] => cn
+            [name] => 土耗子
+            [net_value] => 1.1839
+            [daily_gain] => -0.23
+            [monthly_gain] => 1.33
+            [total_gain] => 18.39
+            [annualized_gain] => 18.39
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013506] => Array
+        (
+            [symbol] => ZH013506
+            [market] => cn
+            [name] => 世坦周期
+            [net_value] => 1.2328
+            [daily_gain] => 3.67
+            [monthly_gain] => 7.71
+            [total_gain] => 23.28
+            [annualized_gain] => 23.28
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013507] => Array
+        (
+            [symbol] => ZH013507
+            [market] => cn
+            [name] => 学习1号
+            [net_value] => 1.0277
+            [daily_gain] => 3.35
+            [monthly_gain] => 14.85
+            [total_gain] => 2.77
+            [annualized_gain] => 2.77
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013508] => Array
+        (
+            [symbol] => ZH013508
+            [market] => cn
+            [name] => 炒药医
+            [net_value] => 1.0138
+            [daily_gain] => 0.49
+            [monthly_gain] => 3.02
+            [total_gain] => 1.38
+            [annualized_gain] => 1.38
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013509] => Array
+        (
+            [symbol] => ZH013509
+            [market] => cn
+            [name] => haboss
+            [net_value] => 1.2080
+            [daily_gain] => 1.88
+            [monthly_gain] => 7.10
+            [total_gain] => 20.80
+            [annualized_gain] => 20.80
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013510] => Array
+        (
+            [symbol] => ZH013510
+            [market] => cn
+            [name] => 竹叶青
+            [net_value] => 1.2481
+            [daily_gain] => 0.26
+            [monthly_gain] => 2.14
+            [total_gain] => 24.81
+            [annualized_gain] => 24.81
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013511] => Array
+        (
+            [symbol] => ZH013511
+            [market] => cn
+            [name] => 尝试错误
+            [net_value] => 1.2133
+            [daily_gain] => 1.61
+            [monthly_gain] => 9.36
+            [total_gain] => 21.33
+            [annualized_gain] => 21.33
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013512] => Array
+        (
+            [symbol] => ZH013512
+            [market] => cn
+            [name] => 搏一搏
+            [net_value] => 0.9622
+            [daily_gain] => 3.34
+            [monthly_gain] => 7.65
+            [total_gain] => -3.78
+            [annualized_gain] => -3.78
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013513] => Array
+        (
+            [symbol] => ZH013513
+            [market] => cn
+            [name] => 米糊一号
+            [net_value] => 1.3511
+            [daily_gain] => 0.12
+            [monthly_gain] => 0.81
+            [total_gain] => 35.11
+            [annualized_gain] => 35.11
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013514] => Array
+        (
+            [symbol] => ZH013514
+            [market] => cn
+            [name] => 胆小的失败者
+            [net_value] => 0.9831
+            [daily_gain] => 0.01
+            [monthly_gain] => 2.43
+            [total_gain] => -1.69
+            [annualized_gain] => -1.69
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013515] => Array
+        (
+            [symbol] => ZH013515
+            [market] => cn
+            [name] => 蓝翔的中国梦
+            [net_value] => 1.1746
+            [daily_gain] => -0.02
+            [monthly_gain] => -4.74
+            [total_gain] => 17.46
+            [annualized_gain] => 17.46
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013516] => Array
+        (
+            [symbol] => ZH013516
+            [market] => hk
+            [name] => 价值几何
+            [net_value] => 0.8551
+            [daily_gain] => -1.78
+            [monthly_gain] => 6.28
+            [total_gain] => -14.49
+            [annualized_gain] => -14.49
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013517] => Array
+        (
+            [symbol] => ZH013517
+            [market] => cn
+            [name] => 先胜A股1号
+            [net_value] => 1.4636
+            [daily_gain] => -0.74
+            [monthly_gain] => 4.79
+            [total_gain] => 46.36
+            [annualized_gain] => 46.36
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013518] => Array
+        (
+            [symbol] => ZH013518
+            [market] => cn
+            [name] => 超级组合
+            [net_value] => 1.3514
+            [daily_gain] => 0.17
+            [monthly_gain] => -1.03
+            [total_gain] => 35.14
+            [annualized_gain] => 35.14
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013519] => Array
+        (
+            [symbol] => ZH013519
+            [market] => cn
+            [name] => 八爪鱼号角
+            [net_value] => 1.1740
+            [daily_gain] => 1.87
+            [monthly_gain] => 3.65
+            [total_gain] => 17.40
+            [annualized_gain] => 17.40
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013520] => Array
+        (
+            [symbol] => ZH013520
+            [market] => cn
+            [name] => 牛来了
+            [net_value] => 0.9826
+            [daily_gain] => 1.19
+            [monthly_gain] => 0.74
+            [total_gain] => -1.74
+            [annualized_gain] => -1.74
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013521] => Array
+        (
+            [symbol] => ZH013521
+            [market] => cn
+            [name] => 梦一队
+            [net_value] => 1.0533
+            [daily_gain] => 0.07
+            [monthly_gain] => 5.33
+            [total_gain] => 5.33
+            [annualized_gain] => 5.33
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013522] => Array
+        (
+            [symbol] => ZH013522
+            [market] => us
+            [name] => 美股未来之星
+            [net_value] => 0.8341
+            [daily_gain] => 0.72
+            [monthly_gain] => -10.76
+            [total_gain] => -16.59
+            [annualized_gain] => -16.59
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013523] => Array
+        (
+            [symbol] => ZH013523
+            [market] => cn
+            [name] => 六剑
+            [net_value] => 1.1527
+            [daily_gain] => 2.58
+            [monthly_gain] => 3.71
+            [total_gain] => 15.27
+            [annualized_gain] => 15.27
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013524] => Array
+        (
+            [symbol] => ZH013524
+            [market] => cn
+            [name] => 墨石1号
+            [net_value] => 1.0886
+            [daily_gain] => -0.55
+            [monthly_gain] => -3.98
+            [total_gain] => 8.86
+            [annualized_gain] => 8.86
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013525] => Array
+        (
+            [symbol] => ZH013525
+            [market] => cn
+            [name] => 有多远
+            [net_value] => 0.9922
+            [daily_gain] => 1.48
+            [monthly_gain] => 3.21
+            [total_gain] => -0.78
+            [annualized_gain] => -0.78
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013526] => Array
+        (
+            [symbol] => ZH013526
+            [market] => cn
+            [name] => 城乡结合部洗剪吹
+            [net_value] => 0.9015
+            [daily_gain] => 1.91
+            [monthly_gain] => 0.95
+            [total_gain] => -9.85
+            [annualized_gain] => -9.85
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013527] => Array
+        (
+            [symbol] => ZH013527
+            [market] => cn
+            [name] => 超级感动
+            [net_value] => 1.2554
+            [daily_gain] => 0.31
+            [monthly_gain] => 1.22
+            [total_gain] => 25.54
+            [annualized_gain] => 25.54
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013528] => Array
+        (
+            [symbol] => ZH013528
+            [market] => us
+            [name] => 科技股
+            [net_value] => 0.8267
+            [daily_gain] => 0.96
+            [monthly_gain] => -4.92
+            [total_gain] => -17.33
+            [annualized_gain] => -17.33
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013529] => Array
+        (
+            [symbol] => ZH013529
+            [market] => cn
+            [name] => 涨停板
+            [net_value] => 1.0261
+            [daily_gain] => 0.63
+            [monthly_gain] => -1.07
+            [total_gain] => 2.61
+            [annualized_gain] => 2.61
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013530] => Array
+        (
+            [symbol] => ZH013530
+            [market] => cn
+            [name] => 英州一号
+            [net_value] => 1.1581
+            [daily_gain] => 1.90
+            [monthly_gain] => 12.30
+            [total_gain] => 15.81
+            [annualized_gain] => 15.81
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013531] => Array
+        (
+            [symbol] => ZH013531
+            [market] => cn
+            [name] => 小猫买鱼组合
+            [net_value] => 1.0557
+            [daily_gain] => 0.45
+            [monthly_gain] => 1.09
+            [total_gain] => 5.57
+            [annualized_gain] => 5.57
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013532] => Array
+        (
+            [symbol] => ZH013532
+            [market] => cn
+            [name] => QQme资本成长
+            [net_value] => 1.3105
+            [daily_gain] => -0.03
+            [monthly_gain] => 4.74
+            [total_gain] => 31.05
+            [annualized_gain] => 31.05
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013533] => Array
+        (
+            [symbol] => ZH013533
+            [market] => us
+            [name] => 腾讯对冲组合
+            [net_value] => 0.7937
+            [daily_gain] => 1.60
+            [monthly_gain] => -4.79
+            [total_gain] => -20.63
+            [annualized_gain] => -20.63
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013534] => Array
+        (
+            [symbol] => ZH013534
+            [market] => cn
+            [name] => 顺便做个测试
+            [net_value] => 1.4303
+            [daily_gain] => 1.55
+            [monthly_gain] => 1.69
+            [total_gain] => 43.03
+            [annualized_gain] => 43.03
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013535] => Array
+        (
+            [symbol] => ZH013535
+            [market] => cn
+            [name] => lty369963
+            [net_value] => 1.5624
+            [daily_gain] => -0.20
+            [monthly_gain] => -5.23
+            [total_gain] => 56.24
+            [annualized_gain] => 56.24
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013536] => Array
+        (
+            [symbol] => ZH013536
+            [market] => cn
+            [name] => 趋势投资
+            [net_value] => 1.2576
+            [daily_gain] => 1.07
+            [monthly_gain] => 0.48
+            [total_gain] => 25.76
+            [annualized_gain] => 25.76
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013537] => Array
+        (
+            [symbol] => ZH013537
+            [market] => cn
+            [name] => 试试看
+            [net_value] => 1.3853
+            [daily_gain] => 8.11
+            [monthly_gain] => 31.99
+            [total_gain] => 38.53
+            [annualized_gain] => 38.53
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013538] => Array
+        (
+            [symbol] => ZH013538
+            [market] => cn
+            [name] => 八爪鱼号01
+            [net_value] => 1.0272
+            [daily_gain] => -0.03
+            [monthly_gain] => -0.57
+            [total_gain] => 2.72
+            [annualized_gain] => 2.72
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013539] => Array
+        (
+            [symbol] => ZH013539
+            [market] => cn
+            [name] => 哈哈虫
+            [net_value] => 1.0950
+            [daily_gain] => 0.36
+            [monthly_gain] => 2.60
+            [total_gain] => 9.50
+            [annualized_gain] => 9.50
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013540] => Array
+        (
+            [symbol] => ZH013540
+            [market] => cn
+            [name] => 就追高
+            [net_value] => 1.2173
+            [daily_gain] => -1.38
+            [monthly_gain] => -2.92
+            [total_gain] => 21.73
+            [annualized_gain] => 21.73
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013541] => Array
+        (
+            [symbol] => ZH013541
+            [market] => cn
+            [name] => 无量涨停
+            [net_value] => 0.9928
+            [daily_gain] => -0.25
+            [monthly_gain] => 3.67
+            [total_gain] => -0.72
+            [annualized_gain] => -0.72
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013542] => Array
+        (
+            [symbol] => ZH013542
+            [market] => cn
+            [name] => 美利坚合众国
+            [net_value] => 1.0279
+            [daily_gain] => -0.01
+            [monthly_gain] => 5.67
+            [total_gain] => 2.79
+            [annualized_gain] => 2.79
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013543] => Array
+        (
+            [symbol] => ZH013543
+            [market] => cn
+            [name] => 镇翻天
+            [net_value] => 1.1555
+            [daily_gain] => 0.71
+            [monthly_gain] => 4.76
+            [total_gain] => 15.55
+            [annualized_gain] => 15.55
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013544] => Array
+        (
+            [symbol] => ZH013544
+            [market] => hk
+            [name] => 水耗子
+            [net_value] => 0.9774
+            [daily_gain] => -1.38
+            [monthly_gain] => 2.37
+            [total_gain] => -2.26
+            [annualized_gain] => -2.26
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013545] => Array
+        (
+            [symbol] => ZH013545
+            [market] => hk
+            [name] => 财务自由港股
+            [net_value] => 1.1908
+            [daily_gain] => 0.40
+            [monthly_gain] => 7.32
+            [total_gain] => 19.08
+            [annualized_gain] => 19.08
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013546] => Array
+        (
+            [symbol] => ZH013546
+            [market] => cn
+            [name] => 水电非银
+            [net_value] => 1.0000
+            [daily_gain] => 0.00
+            [monthly_gain] => 0.00
+            [total_gain] => 0.00
+            [annualized_gain] => 0.00
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013547] => Array
+        (
+            [symbol] => ZH013547
+            [market] => cn
+            [name] => 慢的却是稳的
+            [net_value] => 1.1099
+            [daily_gain] => 0.88
+            [monthly_gain] => 1.03
+            [total_gain] => 10.99
+            [annualized_gain] => 10.99
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013548] => Array
+        (
+            [symbol] => ZH013548
+            [market] => cn
+            [name] => 集结号
+            [net_value] => 1.0347
+            [daily_gain] => 0.89
+            [monthly_gain] => -0.15
+            [total_gain] => 3.47
+            [annualized_gain] => 3.47
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013549] => Array
+        (
+            [symbol] => ZH013549
+            [market] => us
+            [name] => 嘻哈
+            [net_value] => 1.0606
+            [daily_gain] => 1.28
+            [monthly_gain] => 5.08
+            [total_gain] => 6.06
+            [annualized_gain] => 6.06
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013550] => Array
+        (
+            [symbol] => ZH013550
+            [market] => us
+            [name] => 怒空纳指
+            [net_value] => 0.9368
+            [daily_gain] => 0.64
+            [monthly_gain] => 1.26
+            [total_gain] => -6.32
+            [annualized_gain] => -6.32
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013551] => Array
+        (
+            [symbol] => ZH013551
+            [market] => cn
+            [name] => 我是小散
+            [net_value] => 1.2416
+            [daily_gain] => -1.08
+            [monthly_gain] => -0.52
+            [total_gain] => 24.16
+            [annualized_gain] => 24.16
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013552] => Array
+        (
+            [symbol] => ZH013552
+            [market] => cn
+            [name] => 如子自选
+            [net_value] => 1.1835
+            [daily_gain] => 1.90
+            [monthly_gain] => 17.16
+            [total_gain] => 18.35
+            [annualized_gain] => 18.35
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013553] => Array
+        (
+            [symbol] => ZH013553
+            [market] => cn
+            [name] => 试验2
+            [net_value] => 1.1930
+            [daily_gain] => -0.53
+            [monthly_gain] => 2.21
+            [total_gain] => 19.30
+            [annualized_gain] => 19.30
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013554] => Array
+        (
+            [symbol] => ZH013554
+            [market] => cn
+            [name] => 无知者无畏
+            [net_value] => 0.9766
+            [daily_gain] => 0.86
+            [monthly_gain] => -0.36
+            [total_gain] => -2.34
+            [annualized_gain] => -2.34
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013555] => Array
+        (
+            [symbol] => ZH013555
+            [market] => cn
+            [name] => 康腾1号
+            [net_value] => 1.1151
+            [daily_gain] => -0.42
+            [monthly_gain] => 6.18
+            [total_gain] => 11.51
+            [annualized_gain] => 11.51
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013556] => Array
+        (
+            [symbol] => ZH013556
+            [market] => hk
+            [name] => 天命
+            [net_value] => 1.8867
+            [daily_gain] => -3.80
+            [monthly_gain] => -7.01
+            [total_gain] => 88.67
+            [annualized_gain] => 88.67
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013557] => Array
+        (
+            [symbol] => ZH013557
+            [market] => cn
+            [name] => 紫金道
+            [net_value] => 0.9771
+            [daily_gain] => 0.16
+            [monthly_gain] => 7.53
+            [total_gain] => -2.29
+            [annualized_gain] => -2.29
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013558] => Array
+        (
+            [symbol] => ZH013558
+            [market] => us
+            [name] => 金耗子
+            [net_value] => 0.9194
+            [daily_gain] => 0.90
+            [monthly_gain] => -3.75
+            [total_gain] => -8.06
+            [annualized_gain] => -8.06
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013559] => Array
+        (
+            [symbol] => ZH013559
+            [market] => cn
+            [name] => 岂在朝暮
+            [net_value] => 1.1066
+            [daily_gain] => 0.28
+            [monthly_gain] => -1.01
+            [total_gain] => 10.66
+            [annualized_gain] => 10.66
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013560] => Array
+        (
+            [symbol] => ZH013560
+            [market] => cn
+            [name] => 短线练手
+            [net_value] => 1.3684
+            [daily_gain] => 5.52
+            [monthly_gain] => 15.07
+            [total_gain] => 36.84
+            [annualized_gain] => 36.84
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013561] => Array
+        (
+            [symbol] => ZH013561
+            [market] => cn
+            [name] => 锦衣玉食
+            [net_value] => 1.2076
+            [daily_gain] => 2.46
+            [monthly_gain] => 3.31
+            [total_gain] => 20.76
+            [annualized_gain] => 20.76
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013562] => Array
+        (
+            [symbol] => ZH013562
+            [market] => cn
+            [name] => 试验4
+            [net_value] => 1.1243
+            [daily_gain] => 0.38
+            [monthly_gain] => 2.87
+            [total_gain] => 12.43
+            [annualized_gain] => 12.43
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013563] => Array
+        (
+            [symbol] => ZH013563
+            [market] => cn
+            [name] => 赚到笑
+            [net_value] => 1.2460
+            [daily_gain] => 2.36
+            [monthly_gain] => 3.56
+            [total_gain] => 24.60
+            [annualized_gain] => 24.60
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013564] => Array
+        (
+            [symbol] => ZH013564
+            [market] => cn
+            [name] => 小布丁
+            [net_value] => 1.2357
+            [daily_gain] => 0.33
+            [monthly_gain] => 11.96
+            [total_gain] => 23.57
+            [annualized_gain] => 23.57
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013565] => Array
+        (
+            [symbol] => ZH013565
+            [market] => cn
+            [name] => 青风1号
+            [net_value] => 1.1243
+            [daily_gain] => 1.04
+            [monthly_gain] => 6.74
+            [total_gain] => 12.43
+            [annualized_gain] => 12.43
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013566] => Array
+        (
+            [symbol] => ZH013566
+            [market] => cn
+            [name] => 牛棚一号
+            [net_value] => 1.1921
+            [daily_gain] => 2.12
+            [monthly_gain] => 7.22
+            [total_gain] => 19.21
+            [annualized_gain] => 19.21
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013567] => Array
+        (
+            [symbol] => ZH013567
+            [market] => cn
+            [name] => 风吹雪
+            [net_value] => 1.4205
+            [daily_gain] => 0.87
+            [monthly_gain] => 2.37
+            [total_gain] => 42.05
+            [annualized_gain] => 42.05
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013568] => Array
+        (
+            [symbol] => ZH013568
+            [market] => us
+            [name] => 人类未来
+            [net_value] => 0.9084
+            [daily_gain] => 0.44
+            [monthly_gain] => -0.47
+            [total_gain] => -9.16
+            [annualized_gain] => -9.16
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013569] => Array
+        (
+            [symbol] => ZH013569
+            [market] => cn
+            [name] => 江都一号
+            [net_value] => 1.2755
+            [daily_gain] => 0.41
+            [monthly_gain] => -2.98
+            [total_gain] => 27.55
+            [annualized_gain] => 27.55
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013570] => Array
+        (
+            [symbol] => ZH013570
+            [market] => cn
+            [name] => 稳健远见
+            [net_value] => 1.0628
+            [daily_gain] => 0.19
+            [monthly_gain] => 3.93
+            [total_gain] => 6.28
+            [annualized_gain] => 6.28
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013571] => Array
+        (
+            [symbol] => ZH013571
+            [market] => cn
+            [name] => 老鼠爱大米
+            [net_value] => 1.3283
+            [daily_gain] => 0.41
+            [monthly_gain] => 2.90
+            [total_gain] => 32.83
+            [annualized_gain] => 32.83
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013572] => Array
+        (
+            [symbol] => ZH013572
+            [market] => cn
+            [name] => 神圣光明会
+            [net_value] => 1.2929
+            [daily_gain] => 1.60
+            [monthly_gain] => 6.31
+            [total_gain] => 29.29
+            [annualized_gain] => 29.29
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013573] => Array
+        (
+            [symbol] => ZH013573
+            [market] => cn
+            [name] => 稳健成长
+            [net_value] => 1.1231
+            [daily_gain] => 3.17
+            [monthly_gain] => 2.84
+            [total_gain] => 12.31
+            [annualized_gain] => 12.31
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013574] => Array
+        (
+            [symbol] => ZH013574
+            [market] => cn
+            [name] => 买车就靠它了
+            [net_value] => 0.9966
+            [daily_gain] => 1.74
+            [monthly_gain] => 7.77
+            [total_gain] => -0.34
+            [annualized_gain] => -0.34
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013575] => Array
+        (
+            [symbol] => ZH013575
+            [market] => cn
+            [name] => 丁丁成长记
+            [net_value] => 1.1977
+            [daily_gain] => -0.35
+            [monthly_gain] => -0.68
+            [total_gain] => 19.77
+            [annualized_gain] => 19.77
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013576] => Array
+        (
+            [symbol] => ZH013576
+            [market] => cn
+            [name] => 多看少动
+            [net_value] => 1.1759
+            [daily_gain] => 2.97
+            [monthly_gain] => 14.15
+            [total_gain] => 17.59
+            [annualized_gain] => 17.59
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013577] => Array
+        (
+            [symbol] => ZH013577
+            [market] => cn
+            [name] => 梦想组合一号
+            [net_value] => 1.5259
+            [daily_gain] => -0.17
+            [monthly_gain] => 1.90
+            [total_gain] => 52.59
+            [annualized_gain] => 52.59
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013578] => Array
+        (
+            [symbol] => ZH013578
+            [market] => cn
+            [name] => 新生活
+            [net_value] => 1.0861
+            [daily_gain] => 0.60
+            [monthly_gain] => -0.89
+            [total_gain] => 8.61
+            [annualized_gain] => 8.61
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013579] => Array
+        (
+            [symbol] => ZH013579
+            [market] => cn
+            [name] => 胡言乱语
+            [net_value] => 1.2139
+            [daily_gain] => -1.37
+            [monthly_gain] => -2.42
+            [total_gain] => 21.39
+            [annualized_gain] => 21.39
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013580] => Array
+        (
+            [symbol] => ZH013580
+            [market] => cn
+            [name] => 从负一楼出发
+            [net_value] => 1.0186
+            [daily_gain] => 2.14
+            [monthly_gain] => 5.65
+            [total_gain] => 1.86
+            [annualized_gain] => 1.86
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013581] => Array
+        (
+            [symbol] => ZH013581
+            [market] => cn
+            [name] => 中国印钞机
+            [net_value] => 1.2046
+            [daily_gain] => 0.62
+            [monthly_gain] => 7.70
+            [total_gain] => 20.46
+            [annualized_gain] => 20.46
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013582] => Array
+        (
+            [symbol] => ZH013582
+            [market] => cn
+            [name] => 你逃我也逃
+            [net_value] => 1.1102
+            [daily_gain] => 0.47
+            [monthly_gain] => 2.85
+            [total_gain] => 11.02
+            [annualized_gain] => 11.02
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013583] => Array
+        (
+            [symbol] => ZH013583
+            [market] => cn
+            [name] => 封神榜
+            [net_value] => 1.0897
+            [daily_gain] => 2.49
+            [monthly_gain] => 8.81
+            [total_gain] => 8.97
+            [annualized_gain] => 8.97
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013584] => Array
+        (
+            [symbol] => ZH013584
+            [market] => cn
+            [name] => 离钱最近组合
+            [net_value] => 1.5678
+            [daily_gain] => -0.33
+            [monthly_gain] => 0.25
+            [total_gain] => 56.78
+            [annualized_gain] => 56.78
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013585] => Array
+        (
+            [symbol] => ZH013585
+            [market] => cn
+            [name] => 越来越赚
+            [net_value] => 0.8604
+            [daily_gain] => 0.34
+            [monthly_gain] => -3.47
+            [total_gain] => -13.96
+            [annualized_gain] => -13.96
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013586] => Array
+        (
+            [symbol] => ZH013586
+            [market] => us
+            [name] => 重剑无锋
+            [net_value] => 1.0516
+            [daily_gain] => 2.26
+            [monthly_gain] => 2.85
+            [total_gain] => 5.16
+            [annualized_gain] => 5.16
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013587] => Array
+        (
+            [symbol] => ZH013587
+            [market] => cn
+            [name] => 环保拯救中国
+            [net_value] => 1.0826
+            [daily_gain] => 1.77
+            [monthly_gain] => -1.57
+            [total_gain] => 8.26
+            [annualized_gain] => 8.26
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013588] => Array
+        (
+            [symbol] => ZH013588
+            [market] => cn
+            [name] => 笨小孩
+            [net_value] => 1.1516
+            [daily_gain] => 0.34
+            [monthly_gain] => -1.06
+            [total_gain] => 15.16
+            [annualized_gain] => 15.16
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013589] => Array
+        (
+            [symbol] => ZH013589
+            [market] => cn
+            [name] => 敗家娘們拯救世界
+            [net_value] => 1.0307
+            [daily_gain] => 1.97
+            [monthly_gain] => 6.77
+            [total_gain] => 3.07
+            [annualized_gain] => 3.07
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013590] => Array
+        (
+            [symbol] => ZH013590
+            [market] => cn
+            [name] => 无心
+            [net_value] => 0.8651
+            [daily_gain] => -0.03
+            [monthly_gain] => 4.08
+            [total_gain] => -13.49
+            [annualized_gain] => -13.49
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013591] => Array
+        (
+            [symbol] => ZH013591
+            [market] => cn
+            [name] => 互联网医疗
+            [net_value] => 0.9155
+            [daily_gain] => -0.52
+            [monthly_gain] => 8.06
+            [total_gain] => -8.45
+            [annualized_gain] => -8.45
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013592] => Array
+        (
+            [symbol] => ZH013592
+            [market] => cn
+            [name] => 指数基金和债券
+            [net_value] => 1.2085
+            [daily_gain] => 0.02
+            [monthly_gain] => -1.85
+            [total_gain] => 20.85
+            [annualized_gain] => 20.85
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013593] => Array
+        (
+            [symbol] => ZH013593
+            [market] => cn
+            [name] => 小牛试刀
+            [net_value] => 1.1860
+            [daily_gain] => -0.31
+            [monthly_gain] => -1.70
+            [total_gain] => 18.60
+            [annualized_gain] => 18.60
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013594] => Array
+        (
+            [symbol] => ZH013594
+            [market] => hk
+            [name] => 不比定存差
+            [net_value] => 1.1597
+            [daily_gain] => -0.30
+            [monthly_gain] => 0.02
+            [total_gain] => 15.97
+            [annualized_gain] => 15.97
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013595] => Array
+        (
+            [symbol] => ZH013595
+            [market] => cn
+            [name] => 一百年不许变
+            [net_value] => 1.0468
+            [daily_gain] => 0.20
+            [monthly_gain] => -1.99
+            [total_gain] => 4.68
+            [annualized_gain] => 4.68
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013596] => Array
+        (
+            [symbol] => ZH013596
+            [market] => cn
+            [name] => 试验3
+            [net_value] => 1.1661
+            [daily_gain] => 0.84
+            [monthly_gain] => 4.54
+            [total_gain] => 16.61
+            [annualized_gain] => 16.61
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013597] => Array
+        (
+            [symbol] => ZH013597
+            [market] => cn
+            [name] => 大王之高转送精选
+            [net_value] => 0.8837
+            [daily_gain] => 2.82
+            [monthly_gain] => 1.98
+            [total_gain] => -11.63
+            [annualized_gain] => -11.63
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013598] => Array
+        (
+            [symbol] => ZH013598
+            [market] => cn
+            [name] => 涨不停
+            [net_value] => 1.0868
+            [daily_gain] => 0.87
+            [monthly_gain] => 0.27
+            [total_gain] => 8.68
+            [annualized_gain] => 8.68
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013599] => Array
+        (
+            [symbol] => ZH013599
+            [market] => cn
+            [name] => 航运集合
+            [net_value] => 1.2920
+            [daily_gain] => -0.45
+            [monthly_gain] => -2.83
+            [total_gain] => 29.20
+            [annualized_gain] => 29.20
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013600] => Array
+        (
+            [symbol] => ZH013600
+            [market] => cn
+            [name] => 来吧
+            [net_value] => 1.0313
+            [daily_gain] => 2.05
+            [monthly_gain] => 5.40
+            [total_gain] => 3.13
+            [annualized_gain] => 3.13
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013601] => Array
+        (
+            [symbol] => ZH013601
+            [market] => cn
+            [name] => 123
+            [net_value] => 0.9693
+            [daily_gain] => -1.66
+            [monthly_gain] => -6.03
+            [total_gain] => -3.07
+            [annualized_gain] => -3.07
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013602] => Array
+        (
+            [symbol] => ZH013602
+            [market] => cn
+            [name] => 杠杆基金专营
+            [net_value] => 1.0090
+            [daily_gain] => 0.58
+            [monthly_gain] => 1.19
+            [total_gain] => 0.90
+            [annualized_gain] => 0.90
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013603] => Array
+        (
+            [symbol] => ZH013603
+            [market] => cn
+            [name] => 楓林组合
+            [net_value] => 0.8873
+            [daily_gain] => 1.06
+            [monthly_gain] => 3.25
+            [total_gain] => -11.27
+            [annualized_gain] => -11.27
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013604] => Array
+        (
+            [symbol] => ZH013604
+            [market] => cn
+            [name] => 在路上
+            [net_value] => 1.4274
+            [daily_gain] => 0.61
+            [monthly_gain] => 2.57
+            [total_gain] => 42.74
+            [annualized_gain] => 42.74
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013605] => Array
+        (
+            [symbol] => ZH013605
+            [market] => cn
+            [name] => 翻番组合
+            [net_value] => 1.1198
+            [daily_gain] => 1.05
+            [monthly_gain] => 0.01
+            [total_gain] => 11.98
+            [annualized_gain] => 11.98
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013606] => Array
+        (
+            [symbol] => ZH013606
+            [market] => cn
+            [name] => 蜡烛图分析法
+            [net_value] => 1.6305
+            [daily_gain] => -1.78
+            [monthly_gain] => 14.72
+            [total_gain] => 63.05
+            [annualized_gain] => 63.05
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013607] => Array
+        (
+            [symbol] => ZH013607
+            [market] => cn
+            [name] => K-line心理
+            [net_value] => 0.9107
+            [daily_gain] => 0.28
+            [monthly_gain] => 3.58
+            [total_gain] => -8.93
+            [annualized_gain] => -8.93
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013608] => Array
+        (
+            [symbol] => ZH013608
+            [market] => cn
+            [name] => 无题
+            [net_value] => 1.4686
+            [daily_gain] => 6.56
+            [monthly_gain] => 27.16
+            [total_gain] => 46.86
+            [annualized_gain] => 46.86
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013609] => Array
+        (
+            [symbol] => ZH013609
+            [market] => cn
+            [name] => 好名字7个字
+            [net_value] => 1.2940
+            [daily_gain] => 2.66
+            [monthly_gain] => 11.70
+            [total_gain] => 29.40
+            [annualized_gain] => 29.40
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013610] => Array
+        (
+            [symbol] => ZH013610
+            [market] => cn
+            [name] => 随便买买
+            [net_value] => 0.9774
+            [daily_gain] => -0.67
+            [monthly_gain] => -7.53
+            [total_gain] => -2.26
+            [annualized_gain] => -2.26
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013611] => Array
+        (
+            [symbol] => ZH013611
+            [market] => cn
+            [name] => 持续成长
+            [net_value] => 1.2940
+            [daily_gain] => 0.25
+            [monthly_gain] => -6.92
+            [total_gain] => 29.40
+            [annualized_gain] => 29.40
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013612] => Array
+        (
+            [symbol] => ZH013612
+            [market] => cn
+            [name] => 安稳睡大觉
+            [net_value] => 1.0000
+            [daily_gain] => 0.00
+            [monthly_gain] => 0.00
+            [total_gain] => 0.00
+            [annualized_gain] => 0.00
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013613] => Array
+        (
+            [symbol] => ZH013613
+            [market] => cn
+            [name] => 奇奇
+            [net_value] => 0.9554
+            [daily_gain] => 1.16
+            [monthly_gain] => 2.11
+            [total_gain] => -4.46
+            [annualized_gain] => -4.46
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013614] => Array
+        (
+            [symbol] => ZH013614
+            [market] => cn
+            [name] => 小试身手
+            [net_value] => 1.2968
+            [daily_gain] => 0.85
+            [monthly_gain] => 1.71
+            [total_gain] => 29.68
+            [annualized_gain] => 29.68
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013615] => Array
+        (
+            [symbol] => ZH013615
+            [market] => cn
+            [name] => 王郑栩
+            [net_value] => 1.0394
+            [daily_gain] => 5.04
+            [monthly_gain] => 15.56
+            [total_gain] => 3.94
+            [annualized_gain] => 3.94
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013616] => Array
+        (
+            [symbol] => ZH013616
+            [market] => cn
+            [name] => 梦里的你
+            [net_value] => 1.1060
+            [daily_gain] => 1.13
+            [monthly_gain] => 0.53
+            [total_gain] => 10.60
+            [annualized_gain] => 10.60
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013617] => Array
+        (
+            [symbol] => ZH013617
+            [market] => cn
+            [name] => 倚天剑
+            [net_value] => 1.0315
+            [daily_gain] => 1.23
+            [monthly_gain] => 6.60
+            [total_gain] => 3.15
+            [annualized_gain] => 3.15
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013618] => Array
+        (
+            [symbol] => ZH013618
+            [market] => cn
+            [name] => 牛牛
+            [net_value] => 0.9577
+            [daily_gain] => 1.06
+            [monthly_gain] => 4.86
+            [total_gain] => -4.23
+            [annualized_gain] => -4.23
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013619] => Array
+        (
+            [symbol] => ZH013619
+            [market] => cn
+            [name] => 大王之信息安全
+            [net_value] => 1.0028
+            [daily_gain] => 3.14
+            [monthly_gain] => 7.44
+            [total_gain] => 0.28
+            [annualized_gain] => 0.28
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013620] => Array
+        (
+            [symbol] => ZH013620
+            [market] => cn
+            [name] => 时空漫步
+            [net_value] => 0.9024
+            [daily_gain] => 1.01
+            [monthly_gain] => 0.67
+            [total_gain] => -9.76
+            [annualized_gain] => -9.76
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013621] => Array
+        (
+            [symbol] => ZH013621
+            [market] => cn
+            [name] => 斯巴达
+            [net_value] => 1.2234
+            [daily_gain] => 1.88
+            [monthly_gain] => 10.24
+            [total_gain] => 22.34
+            [annualized_gain] => 22.34
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013622] => Array
+        (
+            [symbol] => ZH013622
+            [market] => cn
+            [name] => 券商拥抱移动终端
+            [net_value] => 0.8336
+            [daily_gain] => 0.32
+            [monthly_gain] => 2.74
+            [total_gain] => -16.64
+            [annualized_gain] => -16.64
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013623] => Array
+        (
+            [symbol] => ZH013623
+            [market] => cn
+            [name] => 两个抽屉三个蛋
+            [net_value] => 1.0744
+            [daily_gain] => 1.89
+            [monthly_gain] => 2.53
+            [total_gain] => 7.44
+            [annualized_gain] => 7.44
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013624] => Array
+        (
+            [symbol] => ZH013624
+            [market] => cn
+            [name] => 沪港通标的
+            [net_value] => 1.0111
+            [daily_gain] => 0.12
+            [monthly_gain] => 0.71
+            [total_gain] => 1.11
+            [annualized_gain] => 1.11
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013625] => Array
+        (
+            [symbol] => ZH013625
+            [market] => cn
+            [name] => 高铁组合
+            [net_value] => 0.9507
+            [daily_gain] => 0.99
+            [monthly_gain] => -9.23
+            [total_gain] => -4.93
+            [annualized_gain] => -4.93
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013626] => Array
+        (
+            [symbol] => ZH013626
+            [market] => cn
+            [name] => 努力奋斗目标价
+            [net_value] => 1.3861
+            [daily_gain] => 0.43
+            [monthly_gain] => 1.14
+            [total_gain] => 38.61
+            [annualized_gain] => 38.61
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013627] => Array
+        (
+            [symbol] => ZH013627
+            [market] => cn
+            [name] => 偷天换日
+            [net_value] => 1.1266
+            [daily_gain] => 4.90
+            [monthly_gain] => 23.39
+            [total_gain] => 12.66
+            [annualized_gain] => 12.66
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013628] => Array
+        (
+            [symbol] => ZH013628
+            [market] => cn
+            [name] => 乐乐
+            [net_value] => 1.6659
+            [daily_gain] => 0.01
+            [monthly_gain] => -2.45
+            [total_gain] => 66.59
+            [annualized_gain] => 66.59
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013629] => Array
+        (
+            [symbol] => ZH013629
+            [market] => cn
+            [name] => 优质企业
+            [net_value] => 1.3883
+            [daily_gain] => -0.08
+            [monthly_gain] => 6.70
+            [total_gain] => 38.83
+            [annualized_gain] => 38.83
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013630] => Array
+        (
+            [symbol] => ZH013630
+            [market] => hk
+            [name] => YOYOYOY
+            [net_value] => 0.9779
+            [daily_gain] => -1.21
+            [monthly_gain] => 1.10
+            [total_gain] => -2.21
+            [annualized_gain] => -2.21
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013631] => Array
+        (
+            [symbol] => ZH013631
+            [market] => cn
+            [name] => 西贝之路
+            [net_value] => 1.1054
+            [daily_gain] => 1.60
+            [monthly_gain] => 5.41
+            [total_gain] => 10.54
+            [annualized_gain] => 10.54
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013632] => Array
+        (
+            [symbol] => ZH013632
+            [market] => cn
+            [name] => 牛棚二号
+            [net_value] => 1.0709
+            [daily_gain] => 0.27
+            [monthly_gain] => 4.83
+            [total_gain] => 7.09
+            [annualized_gain] => 7.09
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013633] => Array
+        (
+            [symbol] => ZH013633
+            [market] => cn
+            [name] => GOGOGO
+            [net_value] => 1.2798
+            [daily_gain] => 0.44
+            [monthly_gain] => 2.33
+            [total_gain] => 27.98
+            [annualized_gain] => 27.98
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013634] => Array
+        (
+            [symbol] => ZH013634
+            [market] => cn
+            [name] => 反向指标组合
+            [net_value] => 1.3646
+            [daily_gain] => 0.66
+            [monthly_gain] => -0.97
+            [total_gain] => 36.46
+            [annualized_gain] => 36.46
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013635] => Array
+        (
+            [symbol] => ZH013635
+            [market] => cn
+            [name] => 农业资源一号
+            [net_value] => 0.9780
+            [daily_gain] => 0.81
+            [monthly_gain] => 4.73
+            [total_gain] => -2.20
+            [annualized_gain] => -2.20
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013636] => Array
+        (
+            [symbol] => ZH013636
+            [market] => cn
+            [name] => 大呵呵
+            [net_value] => 1.1521
+            [daily_gain] => 0.78
+            [monthly_gain] => -8.73
+            [total_gain] => 15.21
+            [annualized_gain] => 15.21
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013637] => Array
+        (
+            [symbol] => ZH013637
+            [market] => cn
+            [name] => 走起来
+            [net_value] => 1.2526
+            [daily_gain] => 0.62
+            [monthly_gain] => 8.37
+            [total_gain] => 25.26
+            [annualized_gain] => 25.26
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013638] => Array
+        (
+            [symbol] => ZH013638
+            [market] => cn
+            [name] => 智慧互联网金融
+            [net_value] => 1.3766
+            [daily_gain] => 1.14
+            [monthly_gain] => 8.89
+            [total_gain] => 37.66
+            [annualized_gain] => 37.66
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013639] => Array
+        (
+            [symbol] => ZH013639
+            [market] => us
+            [name] => 关心温岭ETF
+            [net_value] => 1.0209
+            [daily_gain] => 0.18
+            [monthly_gain] => 1.05
+            [total_gain] => 2.09
+            [annualized_gain] => 2.09
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013640] => Array
+        (
+            [symbol] => ZH013640
+            [market] => cn
+            [name] => 净值观察
+            [net_value] => 1.3856
+            [daily_gain] => 0.24
+            [monthly_gain] => 0.58
+            [total_gain] => 38.56
+            [annualized_gain] => 38.56
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013641] => Array
+        (
+            [symbol] => ZH013641
+            [market] => cn
+            [name] => 小小韭菜组合
+            [net_value] => 1.1740
+            [daily_gain] => 0.69
+            [monthly_gain] => 4.75
+            [total_gain] => 17.40
+            [annualized_gain] => 17.40
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013642] => Array
+        (
+            [symbol] => ZH013642
+            [market] => cn
+            [name] => 稳健成长
+            [net_value] => 1.1523
+            [daily_gain] => 0.43
+            [monthly_gain] => 2.69
+            [total_gain] => 15.23
+            [annualized_gain] => 15.23
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013643] => Array
+        (
+            [symbol] => ZH013643
+            [market] => cn
+            [name] => 强庄有大风
+            [net_value] => 1.2569
+            [daily_gain] => 10.00
+            [monthly_gain] => 28.49
+            [total_gain] => 25.69
+            [annualized_gain] => 25.69
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013644] => Array
+        (
+            [symbol] => ZH013644
+            [market] => cn
+            [name] => 先锋一号
+            [net_value] => 1.0887
+            [daily_gain] => 0.49
+            [monthly_gain] => 3.12
+            [total_gain] => 8.87
+            [annualized_gain] => 8.87
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013645] => Array
+        (
+            [symbol] => ZH013645
+            [market] => cn
+            [name] => 人元乙
+            [net_value] => 1.0836
+            [daily_gain] => -0.04
+            [monthly_gain] => -1.82
+            [total_gain] => 8.36
+            [annualized_gain] => 8.36
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013646] => Array
+        (
+            [symbol] => ZH013646
+            [market] => cn
+            [name] => 抱树熊组合
+            [net_value] => 0.9178
+            [daily_gain] => 0.77
+            [monthly_gain] => 5.79
+            [total_gain] => -8.22
+            [annualized_gain] => -8.22
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013647] => Array
+        (
+            [symbol] => ZH013647
+            [market] => cn
+            [name] => 跑赢巴菲特
+            [net_value] => 0.9761
+            [daily_gain] => 0.52
+            [monthly_gain] => 1.23
+            [total_gain] => -2.39
+            [annualized_gain] => -2.39
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013648] => Array
+        (
+            [symbol] => ZH013648
+            [market] => cn
+            [name] => 互联网123
+            [net_value] => 1.2616
+            [daily_gain] => 0.93
+            [monthly_gain] => 5.89
+            [total_gain] => 26.16
+            [annualized_gain] => 26.16
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013649] => Array
+        (
+            [symbol] => ZH013649
+            [market] => cn
+            [name] => 穷查理
+            [net_value] => 1.2965
+            [daily_gain] => 0.04
+            [monthly_gain] => 1.03
+            [total_gain] => 29.65
+            [annualized_gain] => 29.65
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013650] => Array
+        (
+            [symbol] => ZH013650
+            [market] => us
+            [name] => Gil
+            [net_value] => 1.0584
+            [daily_gain] => 0.04
+            [monthly_gain] => -0.56
+            [total_gain] => 5.84
+            [annualized_gain] => 5.84
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013651] => Array
+        (
+            [symbol] => ZH013651
+            [market] => cn
+            [name] => 傻瓜胆大
+            [net_value] => 1.4397
+            [daily_gain] => 1.12
+            [monthly_gain] => 0.54
+            [total_gain] => 43.97
+            [annualized_gain] => 43.97
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013652] => Array
+        (
+            [symbol] => ZH013652
+            [market] => cn
+            [name] => 小散户集中营
+            [net_value] => 1.0246
+            [daily_gain] => -0.06
+            [monthly_gain] => 0.73
+            [total_gain] => 2.46
+            [annualized_gain] => 2.46
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013653] => Array
+        (
+            [symbol] => ZH013653
+            [market] => hk
+            [name] => 沪港通
+            [net_value] => 0.8537
+            [daily_gain] => -2.78
+            [monthly_gain] => -1.41
+            [total_gain] => -14.63
+            [annualized_gain] => -14.63
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013654] => Array
+        (
+            [symbol] => ZH013654
+            [market] => cn
+            [name] => 随机漫步
+            [net_value] => 1.6694
+            [daily_gain] => -1.04
+            [monthly_gain] => 2.39
+            [total_gain] => 66.94
+            [annualized_gain] => 66.94
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013655] => Array
+        (
+            [symbol] => ZH013655
+            [market] => cn
+            [name] => 有色之王
+            [net_value] => 1.0898
+            [daily_gain] => 1.33
+            [monthly_gain] => 1.88
+            [total_gain] => 8.98
+            [annualized_gain] => 8.98
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013656] => Array
+        (
+            [symbol] => ZH013656
+            [market] => hk
+            [name] => 资产管理
+            [net_value] => 1.0361
+            [daily_gain] => -0.93
+            [monthly_gain] => 1.16
+            [total_gain] => 3.61
+            [annualized_gain] => 3.61
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013657] => Array
+        (
+            [symbol] => ZH013657
+            [market] => cn
+            [name] => 自由股
+            [net_value] => 1.2590
+            [daily_gain] => 1.66
+            [monthly_gain] => 2.76
+            [total_gain] => 25.90
+            [annualized_gain] => 25.90
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013658] => Array
+        (
+            [symbol] => ZH013658
+            [market] => cn
+            [name] => 九剑-破剑式
+            [net_value] => 1.2882
+            [daily_gain] => 0.35
+            [monthly_gain] => 3.86
+            [total_gain] => 28.82
+            [annualized_gain] => 28.82
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013659] => Array
+        (
+            [symbol] => ZH013659
+            [market] => cn
+            [name] => 慢牛爬缓坡
+            [net_value] => 1.0597
+            [daily_gain] => 0.01
+            [monthly_gain] => 9.95
+            [total_gain] => 5.97
+            [annualized_gain] => 5.97
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013660] => Array
+        (
+            [symbol] => ZH013660
+            [market] => cn
+            [name] => 乐观的晴天
+            [net_value] => 1.4715
+            [daily_gain] => 0.80
+            [monthly_gain] => 0.21
+            [total_gain] => 47.15
+            [annualized_gain] => 47.15
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013661] => Array
+        (
+            [symbol] => ZH013661
+            [market] => cn
+            [name] => 小明
+            [net_value] => 1.5390
+            [daily_gain] => 0.05
+            [monthly_gain] => -1.07
+            [total_gain] => 53.90
+            [annualized_gain] => 53.90
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013662] => Array
+        (
+            [symbol] => ZH013662
+            [market] => cn
+            [name] => 试验5
+            [net_value] => 0.9313
+            [daily_gain] => 1.23
+            [monthly_gain] => -6.10
+            [total_gain] => -6.87
+            [annualized_gain] => -6.87
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013663] => Array
+        (
+            [symbol] => ZH013663
+            [market] => cn
+            [name] => 一不小心成了首富
+            [net_value] => 1.5190
+            [daily_gain] => 9.96
+            [monthly_gain] => 9.19
+            [total_gain] => 51.90
+            [annualized_gain] => 51.90
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013664] => Array
+        (
+            [symbol] => ZH013664
+            [market] => cn
+            [name] => 股市菜鸟
+            [net_value] => 0.9955
+            [daily_gain] => 0.00
+            [monthly_gain] => 9.79
+            [total_gain] => -0.45
+            [annualized_gain] => -0.45
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013665] => Array
+        (
+            [symbol] => ZH013665
+            [market] => cn
+            [name] => 放羊的馄饨
+            [net_value] => 1.1698
+            [daily_gain] => 2.33
+            [monthly_gain] => 6.81
+            [total_gain] => 16.98
+            [annualized_gain] => 16.98
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013666] => Array
+        (
+            [symbol] => ZH013666
+            [market] => cn
+            [name] => 高端制造
+            [net_value] => 1.0465
+            [daily_gain] => 0.51
+            [monthly_gain] => -0.13
+            [total_gain] => 4.65
+            [annualized_gain] => 4.65
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013667] => Array
+        (
+            [symbol] => ZH013667
+            [market] => cn
+            [name] => 超跌股
+            [net_value] => 0.9419
+            [daily_gain] => 0.22
+            [monthly_gain] => -5.81
+            [total_gain] => -5.81
+            [annualized_gain] => -5.81
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013668] => Array
+        (
+            [symbol] => ZH013668
+            [market] => cn
+            [name] => 银行一带一路
+            [net_value] => 0.9571
+            [daily_gain] => 0.16
+            [monthly_gain] => -5.26
+            [total_gain] => -4.29
+            [annualized_gain] => -4.29
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013669] => Array
+        (
+            [symbol] => ZH013669
+            [market] => cn
+            [name] => 融资融券标的股
+            [net_value] => 0.9321
+            [daily_gain] => 9.96
+            [monthly_gain] => 5.01
+            [total_gain] => -6.79
+            [annualized_gain] => -6.79
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013670] => Array
+        (
+            [symbol] => ZH013670
+            [market] => cn
+            [name] => 追击热点
+            [net_value] => 1.3411
+            [daily_gain] => 0.05
+            [monthly_gain] => -0.78
+            [total_gain] => 34.11
+            [annualized_gain] => 34.11
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013671] => Array
+        (
+            [symbol] => ZH013671
+            [market] => hk
+            [name] => 养活gigi法宝
+            [net_value] => 0.9622
+            [daily_gain] => -1.70
+            [monthly_gain] => 1.61
+            [total_gain] => -3.78
+            [annualized_gain] => -3.78
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013672] => Array
+        (
+            [symbol] => ZH013672
+            [market] => cn
+            [name] => 明天就买它
+            [net_value] => 1.0000
+            [daily_gain] => 0.00
+            [monthly_gain] => 0.00
+            [total_gain] => 0.00
+            [annualized_gain] => 0.00
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013673] => Array
+        (
+            [symbol] => ZH013673
+            [market] => cn
+            [name] => 疯了桂宝
+            [net_value] => 1.4604
+            [daily_gain] => 0.37
+            [monthly_gain] => -2.11
+            [total_gain] => 46.04
+            [annualized_gain] => 46.04
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013674] => Array
+        (
+            [symbol] => ZH013674
+            [market] => cn
+            [name] => 汽车整车及零部件
+            [net_value] => 1.1389
+            [daily_gain] => -1.46
+            [monthly_gain] => 3.81
+            [total_gain] => 13.89
+            [annualized_gain] => 13.89
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013675] => Array
+        (
+            [symbol] => ZH013675
+            [market] => us
+            [name] => 星尘stardust
+            [net_value] => 0.9086
+            [daily_gain] => 0.32
+            [monthly_gain] => -3.70
+            [total_gain] => -9.14
+            [annualized_gain] => -9.14
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013676] => Array
+        (
+            [symbol] => ZH013676
+            [market] => cn
+            [name] => 股市博弈
+            [net_value] => 1.2199
+            [daily_gain] => 2.52
+            [monthly_gain] => 2.89
+            [total_gain] => 21.99
+            [annualized_gain] => 21.99
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013677] => Array
+        (
+            [symbol] => ZH013677
+            [market] => cn
+            [name] => 阿里宝宝
+            [net_value] => 1.1954
+            [daily_gain] => 4.99
+            [monthly_gain] => 15.28
+            [total_gain] => 19.54
+            [annualized_gain] => 19.54
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013678] => Array
+        (
+            [symbol] => ZH013678
+            [market] => us
+            [name] => 瞎买
+            [net_value] => 0.8740
+            [daily_gain] => 0.97
+            [monthly_gain] => 0.58
+            [total_gain] => -12.60
+            [annualized_gain] => -12.60
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013679] => Array
+        (
+            [symbol] => ZH013679
+            [market] => cn
+            [name] => 平安果
+            [net_value] => 0.9339
+            [daily_gain] => -0.35
+            [monthly_gain] => 6.72
+            [total_gain] => -6.61
+            [annualized_gain] => -6.61
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013680] => Array
+        (
+            [symbol] => ZH013680
+            [market] => cn
+            [name] => 高送转组合
+            [net_value] => 0.9282
+            [daily_gain] => 1.91
+            [monthly_gain] => 3.19
+            [total_gain] => -7.18
+            [annualized_gain] => -7.18
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013681] => Array
+        (
+            [symbol] => ZH013681
+            [market] => cn
+            [name] => 钝刀
+            [net_value] => 1.1571
+            [daily_gain] => 0.72
+            [monthly_gain] => 2.53
+            [total_gain] => 15.71
+            [annualized_gain] => 15.71
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013682] => Array
+        (
+            [symbol] => ZH013682
+            [market] => cn
+            [name] => 血一
+            [net_value] => 1.1143
+            [daily_gain] => 0.95
+            [monthly_gain] => 0.84
+            [total_gain] => 11.43
+            [annualized_gain] => 11.43
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013683] => Array
+        (
+            [symbol] => ZH013683
+            [market] => cn
+            [name] => 草船借箭
+            [net_value] => 1.2330
+            [daily_gain] => -0.50
+            [monthly_gain] => 1.28
+            [total_gain] => 23.30
+            [annualized_gain] => 23.30
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013684] => Array
+        (
+            [symbol] => ZH013684
+            [market] => cn
+            [name] => 新手上路
+            [net_value] => 1.1407
+            [daily_gain] => 2.20
+            [monthly_gain] => -2.89
+            [total_gain] => 14.07
+            [annualized_gain] => 14.07
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013685] => Array
+        (
+            [symbol] => ZH013685
+            [market] => cn
+            [name] => 约否
+            [net_value] => 1.1048
+            [daily_gain] => 0.70
+            [monthly_gain] => 3.22
+            [total_gain] => 10.48
+            [annualized_gain] => 10.48
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013686] => Array
+        (
+            [symbol] => ZH013686
+            [market] => hk
+            [name] => 阿里入股H
+            [net_value] => 1.0000
+            [daily_gain] => 0.00
+            [monthly_gain] => 0.00
+            [total_gain] => 0.00
+            [annualized_gain] => 0.00
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013687] => Array
+        (
+            [symbol] => ZH013687
+            [market] => cn
+            [name] => 寻找百倍股
+            [net_value] => 0.9991
+            [daily_gain] => 1.10
+            [monthly_gain] => 4.27
+            [total_gain] => -0.09
+            [annualized_gain] => -0.09
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013688] => Array
+        (
+            [symbol] => ZH013688
+            [market] => us
+            [name] => 赚钱给老婆买包
+            [net_value] => 0.8928
+            [daily_gain] => 1.66
+            [monthly_gain] => -8.87
+            [total_gain] => -10.72
+            [annualized_gain] => -10.72
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013689] => Array
+        (
+            [symbol] => ZH013689
+            [market] => cn
+            [name] => 试试看
+            [net_value] => 0.9008
+            [daily_gain] => 1.67
+            [monthly_gain] => 4.23
+            [total_gain] => -9.92
+            [annualized_gain] => -9.92
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013690] => Array
+        (
+            [symbol] => ZH013690
+            [market] => cn
+            [name] => 翘翘板
+            [net_value] => 1.1379
+            [daily_gain] => 2.43
+            [monthly_gain] => 6.09
+            [total_gain] => 13.79
+            [annualized_gain] => 13.79
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013691] => Array
+        (
+            [symbol] => ZH013691
+            [market] => cn
+            [name] => 融资融券专用
+            [net_value] => 1.0881
+            [daily_gain] => 1.33
+            [monthly_gain] => 3.10
+            [total_gain] => 8.81
+            [annualized_gain] => 8.81
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013692] => Array
+        (
+            [symbol] => ZH013692
+            [market] => cn
+            [name] => 201411
+            [net_value] => 1.0788
+            [daily_gain] => 1.70
+            [monthly_gain] => 3.00
+            [total_gain] => 7.88
+            [annualized_gain] => 7.88
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013693] => Array
+        (
+            [symbol] => ZH013693
+            [market] => cn
+            [name] => 牛逼
+            [net_value] => 1.3291
+            [daily_gain] => -0.36
+            [monthly_gain] => -0.15
+            [total_gain] => 32.91
+            [annualized_gain] => 32.91
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013694] => Array
+        (
+            [symbol] => ZH013694
+            [market] => cn
+            [name] => 柯镇恶带你去发电
+            [net_value] => 1.1586
+            [daily_gain] => -0.02
+            [monthly_gain] => -2.88
+            [total_gain] => 15.86
+            [annualized_gain] => 15.86
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013695] => Array
+        (
+            [symbol] => ZH013695
+            [market] => cn
+            [name] => 耐性要够好
+            [net_value] => 1.1398
+            [daily_gain] => -0.10
+            [monthly_gain] => -0.34
+            [total_gain] => 13.98
+            [annualized_gain] => 13.98
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013696] => Array
+        (
+            [symbol] => ZH013696
+            [market] => cn
+            [name] => 没妞组合
+            [net_value] => 1.0407
+            [daily_gain] => 2.66
+            [monthly_gain] => 6.74
+            [total_gain] => 4.07
+            [annualized_gain] => 4.07
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013697] => Array
+        (
+            [symbol] => ZH013697
+            [market] => cn
+            [name] => 牛骨头
+            [net_value] => 1.1703
+            [daily_gain] => 0.28
+            [monthly_gain] => 5.46
+            [total_gain] => 17.03
+            [annualized_gain] => 17.03
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013698] => Array
+        (
+            [symbol] => ZH013698
+            [market] => cn
+            [name] => 圈圈乐儿
+            [net_value] => 1.0000
+            [daily_gain] => 0.00
+            [monthly_gain] => 0.00
+            [total_gain] => 0.00
+            [annualized_gain] => 0.00
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013699] => Array
+        (
+            [symbol] => ZH013699
+            [market] => cn
+            [name] => 馄饨价值派
+            [net_value] => 1.2112
+            [daily_gain] => 1.25
+            [monthly_gain] => 5.85
+            [total_gain] => 21.12
+            [annualized_gain] => 21.12
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013700] => Array
+        (
+            [symbol] => ZH013700
+            [market] => us
+            [name] => TEST
+            [net_value] => 0.8935
+            [daily_gain] => 0.53
+            [monthly_gain] => -8.53
+            [total_gain] => -10.65
+            [annualized_gain] => -10.65
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013701] => Array
+        (
+            [symbol] => ZH013701
+            [market] => cn
+            [name] => 你有病啊你有药啊
+            [net_value] => 0.9852
+            [daily_gain] => 1.92
+            [monthly_gain] => 9.01
+            [total_gain] => -1.48
+            [annualized_gain] => -1.48
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013702] => Array
+        (
+            [symbol] => ZH013702
+            [market] => cn
+            [name] => 海的驿端
+            [net_value] => 1.1057
+            [daily_gain] => 0.90
+            [monthly_gain] => 2.08
+            [total_gain] => 10.57
+            [annualized_gain] => 10.57
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013703] => Array
+        (
+            [symbol] => ZH013703
+            [market] => cn
+            [name] => 等着瞧
+            [net_value] => 1.2703
+            [daily_gain] => 1.93
+            [monthly_gain] => 10.80
+            [total_gain] => 27.03
+            [annualized_gain] => 27.03
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013704] => Array
+        (
+            [symbol] => ZH013704
+            [market] => cn
+            [name] => 无声胜有声
+            [net_value] => 1.2433
+            [daily_gain] => 0.90
+            [monthly_gain] => 8.62
+            [total_gain] => 24.33
+            [annualized_gain] => 24.33
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013705] => Array
+        (
+            [symbol] => ZH013705
+            [market] => cn
+            [name] => 健康医药通航
+            [net_value] => 1.0369
+            [daily_gain] => 1.93
+            [monthly_gain] => 5.80
+            [total_gain] => 3.69
+            [annualized_gain] => 3.69
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013706] => Array
+        (
+            [symbol] => ZH013706
+            [market] => hk
+            [name] => 港股通
+            [net_value] => 0.8867
+            [daily_gain] => -0.70
+            [monthly_gain] => 2.92
+            [total_gain] => -11.33
+            [annualized_gain] => -11.33
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013707] => Array
+        (
+            [symbol] => ZH013707
+            [market] => cn
+            [name] => 星云nebula
+            [net_value] => 0.9663
+            [daily_gain] => 1.72
+            [monthly_gain] => 4.95
+            [total_gain] => -3.37
+            [annualized_gain] => -3.37
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013708] => Array
+        (
+            [symbol] => ZH013708
+            [market] => cn
+            [name] => 海贼王
+            [net_value] => 0.9129
+            [daily_gain] => -1.13
+            [monthly_gain] => 4.48
+            [total_gain] => -8.71
+            [annualized_gain] => -8.71
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013709] => Array
+        (
+            [symbol] => ZH013709
+            [market] => cn
+            [name] => 一击必杀
+            [net_value] => 1.1805
+            [daily_gain] => 1.63
+            [monthly_gain] => 0.41
+            [total_gain] => 18.05
+            [annualized_gain] => 18.05
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013710] => Array
+        (
+            [symbol] => ZH013710
+            [market] => cn
+            [name] => 医药
+            [net_value] => 1.0690
+            [daily_gain] => 1.67
+            [monthly_gain] => 6.28
+            [total_gain] => 6.90
+            [annualized_gain] => 6.90
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013711] => Array
+        (
+            [symbol] => ZH013711
+            [market] => cn
+            [name] => 电老虎
+            [net_value] => 1.5385
+            [daily_gain] => 0.35
+            [monthly_gain] => 3.16
+            [total_gain] => 53.85
+            [annualized_gain] => 53.85
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013712] => Array
+        (
+            [symbol] => ZH013712
+            [market] => cn
+            [name] => 抱朴守拙
+            [net_value] => 0.8792
+            [daily_gain] => 2.17
+            [monthly_gain] => 4.17
+            [total_gain] => -12.08
+            [annualized_gain] => -12.08
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013713] => Array
+        (
+            [symbol] => ZH013713
+            [market] => cn
+            [name] => 宇宙无敌小蜗牛
+            [net_value] => 1.0484
+            [daily_gain] => 0.78
+            [monthly_gain] => 10.48
+            [total_gain] => 4.84
+            [annualized_gain] => 4.84
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013714] => Array
+        (
+            [symbol] => ZH013714
+            [market] => cn
+            [name] => 赢赢赢
+            [net_value] => 1.6815
+            [daily_gain] => -0.57
+            [monthly_gain] => -0.51
+            [total_gain] => 68.15
+            [annualized_gain] => 68.15
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013715] => Array
+        (
+            [symbol] => ZH013715
+            [market] => cn
+            [name] => 天宇1401
+            [net_value] => 1.1639
+            [daily_gain] => 0.13
+            [monthly_gain] => -1.28
+            [total_gain] => 16.39
+            [annualized_gain] => 16.39
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013716] => Array
+        (
+            [symbol] => ZH013716
+            [market] => cn
+            [name] => 进攻型
+            [net_value] => 1.0000
+            [daily_gain] => 0.00
+            [monthly_gain] => 0.00
+            [total_gain] => 0.00
+            [annualized_gain] => 0.00
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013717] => Array
+        (
+            [symbol] => ZH013717
+            [market] => cn
+            [name] => 热点追击
+            [net_value] => 0.9840
+            [daily_gain] => 1.20
+            [monthly_gain] => 3.49
+            [total_gain] => -1.60
+            [annualized_gain] => -1.60
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013718] => Array
+        (
+            [symbol] => ZH013718
+            [market] => cn
+            [name] => 地狱神探
+            [net_value] => 0.8753
+            [daily_gain] => 1.96
+            [monthly_gain] => 2.31
+            [total_gain] => -12.47
+            [annualized_gain] => -12.47
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013719] => Array
+        (
+            [symbol] => ZH013719
+            [market] => cn
+            [name] => 赵小博
+            [net_value] => 1.0991
+            [daily_gain] => 2.24
+            [monthly_gain] => -2.18
+            [total_gain] => 9.91
+            [annualized_gain] => 9.91
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013720] => Array
+        (
+            [symbol] => ZH013720
+            [market] => cn
+            [name] => 懒啦吧唧
+            [net_value] => 1.2407
+            [daily_gain] => 1.35
+            [monthly_gain] => 7.56
+            [total_gain] => 24.07
+            [annualized_gain] => 24.07
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013721] => Array
+        (
+            [symbol] => ZH013721
+            [market] => cn
+            [name] => 屌的一比
+            [net_value] => 1.1463
+            [daily_gain] => -0.31
+            [monthly_gain] => 3.40
+            [total_gain] => 14.63
+            [annualized_gain] => 14.63
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013722] => Array
+        (
+            [symbol] => ZH013722
+            [market] => cn
+            [name] => Nb组合
+            [net_value] => 1.2689
+            [daily_gain] => 7.11
+            [monthly_gain] => -5.51
+            [total_gain] => 26.89
+            [annualized_gain] => 26.89
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013723] => Array
+        (
+            [symbol] => ZH013723
+            [market] => cn
+            [name] => 潜龙在渊
+            [net_value] => 1.1603
+            [daily_gain] => 1.29
+            [monthly_gain] => 13.33
+            [total_gain] => 16.03
+            [annualized_gain] => 16.03
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013724] => Array
+        (
+            [symbol] => ZH013724
+            [market] => cn
+            [name] => 快消
+            [net_value] => 1.0039
+            [daily_gain] => 0.04
+            [monthly_gain] => 0.03
+            [total_gain] => 0.39
+            [annualized_gain] => 0.39
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013725] => Array
+        (
+            [symbol] => ZH013725
+            [market] => cn
+            [name] => 梦想咖啡屋
+            [net_value] => 1.1037
+            [daily_gain] => 1.35
+            [monthly_gain] => -1.09
+            [total_gain] => 10.37
+            [annualized_gain] => 10.37
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013726] => Array
+        (
+            [symbol] => ZH013726
+            [market] => cn
+            [name] => 芝麻开门1号
+            [net_value] => 1.2277
+            [daily_gain] => 2.37
+            [monthly_gain] => 12.39
+            [total_gain] => 22.77
+            [annualized_gain] => 22.77
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013727] => Array
+        (
+            [symbol] => ZH013727
+            [market] => cn
+            [name] => 丝路太平
+            [net_value] => 1.3606
+            [daily_gain] => 2.54
+            [monthly_gain] => -2.69
+            [total_gain] => 36.06
+            [annualized_gain] => 36.06
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013728] => Array
+        (
+            [symbol] => ZH013728
+            [market] => cn
+            [name] => 赢得未来
+            [net_value] => 1.5705
+            [daily_gain] => -0.20
+            [monthly_gain] => -5.50
+            [total_gain] => 57.05
+            [annualized_gain] => 57.05
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013729] => Array
+        (
+            [symbol] => ZH013729
+            [market] => hk
+            [name] => 港股慢牛之選
+            [net_value] => 0.9407
+            [daily_gain] => -0.80
+            [monthly_gain] => 0.50
+            [total_gain] => -5.93
+            [annualized_gain] => -5.93
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013730] => Array
+        (
+            [symbol] => ZH013730
+            [market] => cn
+            [name] => 稳健成长
+            [net_value] => 0.9097
+            [daily_gain] => 2.03
+            [monthly_gain] => 5.88
+            [total_gain] => -9.03
+            [annualized_gain] => -9.03
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013731] => Array
+        (
+            [symbol] => ZH013731
+            [market] => hk
+            [name] => 跑赢通胀
+            [net_value] => 0.9446
+            [daily_gain] => -1.35
+            [monthly_gain] => 3.16
+            [total_gain] => -5.54
+            [annualized_gain] => -5.54
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013732] => Array
+        (
+            [symbol] => ZH013732
+            [market] => cn
+            [name] => 涨不停不停涨
+            [net_value] => 1.0259
+            [daily_gain] => -0.67
+            [monthly_gain] => 0.21
+            [total_gain] => 2.59
+            [annualized_gain] => 2.59
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013733] => Array
+        (
+            [symbol] => ZH013733
+            [market] => us
+            [name] => 吃面的说
+            [net_value] => 0.7302
+            [daily_gain] => -0.28
+            [monthly_gain] => -4.30
+            [total_gain] => -26.98
+            [annualized_gain] => -26.98
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013734] => Array
+        (
+            [symbol] => ZH013734
+            [market] => cn
+            [name] => 什么股
+            [net_value] => 1.2427
+            [daily_gain] => 0.13
+            [monthly_gain] => -0.17
+            [total_gain] => 24.27
+            [annualized_gain] => 24.27
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013735] => Array
+        (
+            [symbol] => ZH013735
+            [market] => cn
+            [name] => 奇怪组合
+            [net_value] => 1.2172
+            [daily_gain] => -0.60
+            [monthly_gain] => -4.39
+            [total_gain] => 21.72
+            [annualized_gain] => 21.72
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013736] => Array
+        (
+            [symbol] => ZH013736
+            [market] => hk
+            [name] => 港股初体验
+            [net_value] => 0.9212
+            [daily_gain] => -1.22
+            [monthly_gain] => -0.52
+            [total_gain] => -7.88
+            [annualized_gain] => -7.88
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013737] => Array
+        (
+            [symbol] => ZH013737
+            [market] => us
+            [name] => 长夜漫漫
+            [net_value] => 0.9605
+            [daily_gain] => 1.36
+            [monthly_gain] => 1.53
+            [total_gain] => -3.95
+            [annualized_gain] => -3.95
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013738] => Array
+        (
+            [symbol] => ZH013738
+            [market] => cn
+            [name] => 泽恩资本
+            [net_value] => 0.9985
+            [daily_gain] => 0.05
+            [monthly_gain] => 0.06
+            [total_gain] => -0.15
+            [annualized_gain] => -0.15
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013739] => Array
+        (
+            [symbol] => ZH013739
+            [market] => cn
+            [name] => 无剑胜有剑
+            [net_value] => 1.3917
+            [daily_gain] => 1.72
+            [monthly_gain] => 0.75
+            [total_gain] => 39.17
+            [annualized_gain] => 39.17
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013740] => Array
+        (
+            [symbol] => ZH013740
+            [market] => cn
+            [name] => 稳健
+            [net_value] => 0.9974
+            [daily_gain] => 0.39
+            [monthly_gain] => 1.88
+            [total_gain] => -0.26
+            [annualized_gain] => -0.26
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013741] => Array
+        (
+            [symbol] => ZH013741
+            [market] => cn
+            [name] => 一路桐花开
+            [net_value] => 0.9504
+            [daily_gain] => 0.40
+            [monthly_gain] => 1.01
+            [total_gain] => -4.96
+            [annualized_gain] => -4.96
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013742] => Array
+        (
+            [symbol] => ZH013742
+            [market] => cn
+            [name] => 稳健成长
+            [net_value] => 0.8766
+            [daily_gain] => -0.19
+            [monthly_gain] => -0.45
+            [total_gain] => -12.34
+            [annualized_gain] => -12.34
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013743] => Array
+        (
+            [symbol] => ZH013743
+            [market] => cn
+            [name] => 金钟罩
+            [net_value] => 0.9123
+            [daily_gain] => 0.00
+            [monthly_gain] => 1.43
+            [total_gain] => -8.77
+            [annualized_gain] => -8.77
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013744] => Array
+        (
+            [symbol] => ZH013744
+            [market] => cn
+            [name] => 稳赢1号
+            [net_value] => 1.1663
+            [daily_gain] => 1.08
+            [monthly_gain] => 2.56
+            [total_gain] => 16.63
+            [annualized_gain] => 16.63
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013745] => Array
+        (
+            [symbol] => ZH013745
+            [market] => cn
+            [name] => 大牛一号
+            [net_value] => 1.3724
+            [daily_gain] => 0.32
+            [monthly_gain] => -2.26
+            [total_gain] => 37.24
+            [annualized_gain] => 37.24
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013746] => Array
+        (
+            [symbol] => ZH013746
+            [market] => hk
+            [name] => 港股衰到尽头
+            [net_value] => 0.9327
+            [daily_gain] => -0.29
+            [monthly_gain] => -2.94
+            [total_gain] => -6.73
+            [annualized_gain] => -6.73
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013747] => Array
+        (
+            [symbol] => ZH013747
+            [market] => cn
+            [name] => 测试
+            [net_value] => 1.0400
+            [daily_gain] => 0.38
+            [monthly_gain] => 2.35
+            [total_gain] => 4.00
+            [annualized_gain] => 4.00
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013748] => Array
+        (
+            [symbol] => ZH013748
+            [market] => cn
+            [name] => 慢就慢吧
+            [net_value] => 0.9653
+            [daily_gain] => 0.84
+            [monthly_gain] => 1.37
+            [total_gain] => -3.47
+            [annualized_gain] => -3.47
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013749] => Array
+        (
+            [symbol] => ZH013749
+            [market] => cn
+            [name] => 老牛1号
+            [net_value] => 1.1509
+            [daily_gain] => 0.67
+            [monthly_gain] => 6.88
+            [total_gain] => 15.09
+            [annualized_gain] => 15.09
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013750] => Array
+        (
+            [symbol] => ZH013750
+            [market] => cn
+            [name] => 吃喝嫖赌骑射喷
+            [net_value] => 1.0967
+            [daily_gain] => 1.17
+            [monthly_gain] => 4.32
+            [total_gain] => 9.67
+            [annualized_gain] => 9.67
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013751] => Array
+        (
+            [symbol] => ZH013751
+            [market] => cn
+            [name] => 抄底一号
+            [net_value] => 1.1398
+            [daily_gain] => -0.61
+            [monthly_gain] => 3.49
+            [total_gain] => 13.98
+            [annualized_gain] => 13.98
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013752] => Array
+        (
+            [symbol] => ZH013752
+            [market] => cn
+            [name] => 折翅天使今又来
+            [net_value] => 0.9742
+            [daily_gain] => 4.03
+            [monthly_gain] => 8.25
+            [total_gain] => -2.58
+            [annualized_gain] => -2.58
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013753] => Array
+        (
+            [symbol] => ZH013753
+            [market] => cn
+            [name] => 三年回头看
+            [net_value] => 1.0150
+            [daily_gain] => 0.00
+            [monthly_gain] => 0.00
+            [total_gain] => 1.50
+            [annualized_gain] => 1.50
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013754] => Array
+        (
+            [symbol] => ZH013754
+            [market] => cn
+            [name] => 我的2015大牛市
+            [net_value] => 1.1933
+            [daily_gain] => 0.70
+            [monthly_gain] => 0.59
+            [total_gain] => 19.33
+            [annualized_gain] => 19.33
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013755] => Array
+        (
+            [symbol] => ZH013755
+            [market] => cn
+            [name] => 无为而治
+            [net_value] => 1.2413
+            [daily_gain] => 0.72
+            [monthly_gain] => -0.97
+            [total_gain] => 24.13
+            [annualized_gain] => 24.13
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013756] => Array
+        (
+            [symbol] => ZH013756
+            [market] => cn
+            [name] => 试验
+            [net_value] => 0.9340
+            [daily_gain] => 1.70
+            [monthly_gain] => -2.81
+            [total_gain] => -6.60
+            [annualized_gain] => -6.60
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013757] => Array
+        (
+            [symbol] => ZH013757
+            [market] => cn
+            [name] => 银砂
+            [net_value] => 1.1913
+            [daily_gain] => 1.08
+            [monthly_gain] => 15.90
+            [total_gain] => 19.13
+            [annualized_gain] => 19.13
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013758] => Array
+        (
+            [symbol] => ZH013758
+            [market] => cn
+            [name] => 辛苦大赛
+            [net_value] => 1.4786
+            [daily_gain] => -0.22
+            [monthly_gain] => 2.91
+            [total_gain] => 47.86
+            [annualized_gain] => 47.86
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013759] => Array
+        (
+            [symbol] => ZH013759
+            [market] => cn
+            [name] => 炮兵团
+            [net_value] => 1.1622
+            [daily_gain] => -0.24
+            [monthly_gain] => -5.85
+            [total_gain] => 16.22
+            [annualized_gain] => 16.22
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013760] => Array
+        (
+            [symbol] => ZH013760
+            [market] => us
+            [name] => 中概股你懂得
+            [net_value] => 0.6016
+            [daily_gain] => 0.06
+            [monthly_gain] => -8.18
+            [total_gain] => -39.84
+            [annualized_gain] => -39.84
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013761] => Array
+        (
+            [symbol] => ZH013761
+            [market] => cn
+            [name] => Champion
+            [net_value] => 1.0004
+            [daily_gain] => 1.96
+            [monthly_gain] => 5.43
+            [total_gain] => 0.04
+            [annualized_gain] => 0.04
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013762] => Array
+        (
+            [symbol] => ZH013762
+            [market] => cn
+            [name] => 抄底专业户
+            [net_value] => 1.0421
+            [daily_gain] => 1.15
+            [monthly_gain] => 1.86
+            [total_gain] => 4.21
+            [annualized_gain] => 4.21
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013763] => Array
+        (
+            [symbol] => ZH013763
+            [market] => cn
+            [name] => 辰晟三期
+            [net_value] => 1.0716
+            [daily_gain] => 0.36
+            [monthly_gain] => 2.82
+            [total_gain] => 7.16
+            [annualized_gain] => 7.16
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013764] => Array
+        (
+            [symbol] => ZH013764
+            [market] => cn
+            [name] => 我的奇葩组合
+            [net_value] => 0.8938
+            [daily_gain] => 0.83
+            [monthly_gain] => 2.42
+            [total_gain] => -10.62
+            [annualized_gain] => -10.62
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013765] => Array
+        (
+            [symbol] => ZH013765
+            [market] => cn
+            [name] => 梦里贝大
+            [net_value] => 1.0000
+            [daily_gain] => 0.00
+            [monthly_gain] => 0.00
+            [total_gain] => 0.00
+            [annualized_gain] => 0.00
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013766] => Array
+        (
+            [symbol] => ZH013766
+            [market] => cn
+            [name] => 光芒万丈
+            [net_value] => 1.0519
+            [daily_gain] => 0.95
+            [monthly_gain] => -0.61
+            [total_gain] => 5.19
+            [annualized_gain] => 5.19
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013767] => Array
+        (
+            [symbol] => ZH013767
+            [market] => cn
+            [name] => 滞涨补涨股
+            [net_value] => 1.5099
+            [daily_gain] => 1.19
+            [monthly_gain] => 1.29
+            [total_gain] => 50.99
+            [annualized_gain] => 50.99
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013768] => Array
+        (
+            [symbol] => ZH013768
+            [market] => cn
+            [name] => 可持续的金融
+            [net_value] => 1.5573
+            [daily_gain] => 0.07
+            [monthly_gain] => 3.42
+            [total_gain] => 55.73
+            [annualized_gain] => 55.73
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013769] => Array
+        (
+            [symbol] => ZH013769
+            [market] => cn
+            [name] => 自己玩002
+            [net_value] => 1.3327
+            [daily_gain] => 1.41
+            [monthly_gain] => 4.36
+            [total_gain] => 33.27
+            [annualized_gain] => 33.27
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013770] => Array
+        (
+            [symbol] => ZH013770
+            [market] => cn
+            [name] => 大眼睛熊熊抓牛市
+            [net_value] => 1.4672
+            [daily_gain] => 1.13
+            [monthly_gain] => 7.36
+            [total_gain] => 46.72
+            [annualized_gain] => 46.72
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013771] => Array
+        (
+            [symbol] => ZH013771
+            [market] => cn
+            [name] => 人生一桶金
+            [net_value] => 1.5463
+            [daily_gain] => -0.38
+            [monthly_gain] => -2.88
+            [total_gain] => 54.63
+            [annualized_gain] => 54.63
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013772] => Array
+        (
+            [symbol] => ZH013772
+            [market] => cn
+            [name] => 各种踏空
+            [net_value] => 1.0000
+            [daily_gain] => 0.00
+            [monthly_gain] => 0.00
+            [total_gain] => 0.00
+            [annualized_gain] => 0.00
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013773] => Array
+        (
+            [symbol] => ZH013773
+            [market] => cn
+            [name] => 白马
+            [net_value] => 1.2171
+            [daily_gain] => 0.86
+            [monthly_gain] => 2.25
+            [total_gain] => 21.71
+            [annualized_gain] => 21.71
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013774] => Array
+        (
+            [symbol] => ZH013774
+            [market] => cn
+            [name] => 赚爱疯六激进一号
+            [net_value] => 1.0098
+            [daily_gain] => -0.27
+            [monthly_gain] => -5.47
+            [total_gain] => 0.98
+            [annualized_gain] => 0.98
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013775] => Array
+        (
+            [symbol] => ZH013775
+            [market] => cn
+            [name] => 塔木德组合
+            [net_value] => 1.0555
+            [daily_gain] => -0.28
+            [monthly_gain] => -1.92
+            [total_gain] => 5.55
+            [annualized_gain] => 5.55
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013776] => Array
+        (
+            [symbol] => ZH013776
+            [market] => cn
+            [name] => minitmac
+            [net_value] => 1.2647
+            [daily_gain] => 0.37
+            [monthly_gain] => -0.34
+            [total_gain] => 26.47
+            [annualized_gain] => 26.47
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013777] => Array
+        (
+            [symbol] => ZH013777
+            [market] => cn
+            [name] => 生态A股
+            [net_value] => 1.3881
+            [daily_gain] => -0.36
+            [monthly_gain] => 1.64
+            [total_gain] => 38.81
+            [annualized_gain] => 38.81
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013778] => Array
+        (
+            [symbol] => ZH013778
+            [market] => cn
+            [name] => 大海无量
+            [net_value] => 0.8856
+            [daily_gain] => 1.36
+            [monthly_gain] => 7.79
+            [total_gain] => -11.44
+            [annualized_gain] => -11.44
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013779] => Array
+        (
+            [symbol] => ZH013779
+            [market] => cn
+            [name] => 长线关注
+            [net_value] => 1.3899
+            [daily_gain] => 0.57
+            [monthly_gain] => 4.70
+            [total_gain] => 38.99
+            [annualized_gain] => 38.99
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013780] => Array
+        (
+            [symbol] => ZH013780
+            [market] => cn
+            [name] => 渔池组合
+            [net_value] => 1.1950
+            [daily_gain] => 5.18
+            [monthly_gain] => 15.55
+            [total_gain] => 19.50
+            [annualized_gain] => 19.50
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013781] => Array
+        (
+            [symbol] => ZH013781
+            [market] => cn
+            [name] => 康维投资
+            [net_value] => 1.4325
+            [daily_gain] => -0.27
+            [monthly_gain] => 1.16
+            [total_gain] => 43.25
+            [annualized_gain] => 43.25
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013782] => Array
+        (
+            [symbol] => ZH013782
+            [market] => hk
+            [name] => 星河galaxy
+            [net_value] => 0.8251
+            [daily_gain] => -0.94
+            [monthly_gain] => -5.35
+            [total_gain] => -17.49
+            [annualized_gain] => -17.49
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013783] => Array
+        (
+            [symbol] => ZH013783
+            [market] => cn
+            [name] => 牛德草
+            [net_value] => 1.1098
+            [daily_gain] => 0.61
+            [monthly_gain] => 2.21
+            [total_gain] => 10.98
+            [annualized_gain] => 10.98
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013784] => Array
+        (
+            [symbol] => ZH013784
+            [market] => cn
+            [name] => 随心2号
+            [net_value] => 0.9998
+            [daily_gain] => 2.95
+            [monthly_gain] => 3.95
+            [total_gain] => -0.02
+            [annualized_gain] => -0.02
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013785] => Array
+        (
+            [symbol] => ZH013785
+            [market] => cn
+            [name] => 帽儿的股室
+            [net_value] => 0.9350
+            [daily_gain] => -0.10
+            [monthly_gain] => 2.11
+            [total_gain] => -6.50
+            [annualized_gain] => -6.50
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013786] => Array
+        (
+            [symbol] => ZH013786
+            [market] => cn
+            [name] => 成长金股
+            [net_value] => 1.0444
+            [daily_gain] => 0.49
+            [monthly_gain] => -0.46
+            [total_gain] => 4.44
+            [annualized_gain] => 4.44
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013787] => Array
+        (
+            [symbol] => ZH013787
+            [market] => cn
+            [name] => 星际穿越1号组合
+            [net_value] => 1.3253
+            [daily_gain] => 0.28
+            [monthly_gain] => -6.38
+            [total_gain] => 32.53
+            [annualized_gain] => 32.53
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013788] => Array
+        (
+            [symbol] => ZH013788
+            [market] => cn
+            [name] => 妞亚芳
+            [net_value] => 1.0520
+            [daily_gain] => 1.04
+            [monthly_gain] => 1.95
+            [total_gain] => 5.20
+            [annualized_gain] => 5.20
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013789] => Array
+        (
+            [symbol] => ZH013789
+            [market] => cn
+            [name] => 低调把钱赚u
+            [net_value] => 1.0819
+            [daily_gain] => 3.26
+            [monthly_gain] => 2.71
+            [total_gain] => 8.19
+            [annualized_gain] => 8.19
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013790] => Array
+        (
+            [symbol] => ZH013790
+            [market] => us
+            [name] => 中概能源大团结
+            [net_value] => 0.8750
+            [daily_gain] => 0.63
+            [monthly_gain] => -3.07
+            [total_gain] => -12.50
+            [annualized_gain] => -12.50
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013791] => Array
+        (
+            [symbol] => ZH013791
+            [market] => cn
+            [name] => 枪在手跟我走
+            [net_value] => 1.1689
+            [daily_gain] => 6.16
+            [monthly_gain] => 17.77
+            [total_gain] => 16.89
+            [annualized_gain] => 16.89
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013792] => Array
+        (
+            [symbol] => ZH013792
+            [market] => hk
+            [name] => 大賭可以變李嘉誠
+            [net_value] => 1.0057
+            [daily_gain] => 0.87
+            [monthly_gain] => 3.41
+            [total_gain] => 0.57
+            [annualized_gain] => 0.57
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013793] => Array
+        (
+            [symbol] => ZH013793
+            [market] => cn
+            [name] => 这是最好的时代
+            [net_value] => 1.3635
+            [daily_gain] => 7.15
+            [monthly_gain] => 32.57
+            [total_gain] => 36.35
+            [annualized_gain] => 36.35
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013794] => Array
+        (
+            [symbol] => ZH013794
+            [market] => cn
+            [name] => 随机组合
+            [net_value] => 0.9796
+            [daily_gain] => -0.16
+            [monthly_gain] => -3.01
+            [total_gain] => -2.04
+            [annualized_gain] => -2.04
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013795] => Array
+        (
+            [symbol] => ZH013795
+            [market] => cn
+            [name] => 1千萬A股投資1號
+            [net_value] => 1.0114
+            [daily_gain] => 0.31
+            [monthly_gain] => 0.61
+            [total_gain] => 1.14
+            [annualized_gain] => 1.14
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013796] => Array
+        (
+            [symbol] => ZH013796
+            [market] => cn
+            [name] => 君临雪
+            [net_value] => 1.0000
+            [daily_gain] => 0.00
+            [monthly_gain] => 0.00
+            [total_gain] => 0.00
+            [annualized_gain] => 0.00
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013797] => Array
+        (
+            [symbol] => ZH013797
+            [market] => cn
+            [name] => 侧漏
+            [net_value] => 0.9664
+            [daily_gain] => 1.77
+            [monthly_gain] => 11.30
+            [total_gain] => -3.36
+            [annualized_gain] => -3.36
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013798] => Array
+        (
+            [symbol] => ZH013798
+            [market] => cn
+            [name] => 指南者
+            [net_value] => 1.0036
+            [daily_gain] => 2.63
+            [monthly_gain] => 3.48
+            [total_gain] => 0.36
+            [annualized_gain] => 0.36
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013799] => Array
+        (
+            [symbol] => ZH013799
+            [market] => cn
+            [name] => 东莞国泰君安
+            [net_value] => 0.9466
+            [daily_gain] => 1.79
+            [monthly_gain] => 3.30
+            [total_gain] => -5.34
+            [annualized_gain] => -5.34
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013800] => Array
+        (
+            [symbol] => ZH013800
+            [market] => cn
+            [name] => 医药旗舰
+            [net_value] => 1.0716
+            [daily_gain] => 1.36
+            [monthly_gain] => 6.16
+            [total_gain] => 7.16
+            [annualized_gain] => 7.16
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013801] => Array
+        (
+            [symbol] => ZH013801
+            [market] => cn
+            [name] => 杰克
+            [net_value] => 0.9680
+            [daily_gain] => 1.32
+            [monthly_gain] => 7.07
+            [total_gain] => -3.20
+            [annualized_gain] => -3.20
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013802] => Array
+        (
+            [symbol] => ZH013802
+            [market] => cn
+            [name] => 抗战八年
+            [net_value] => 0.9677
+            [daily_gain] => 5.52
+            [monthly_gain] => 17.18
+            [total_gain] => -3.23
+            [annualized_gain] => -3.23
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013803] => Array
+        (
+            [symbol] => ZH013803
+            [market] => cn
+            [name] => 稳健
+            [net_value] => 1.3696
+            [daily_gain] => 0.54
+            [monthly_gain] => 2.37
+            [total_gain] => 36.96
+            [annualized_gain] => 36.96
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013804] => Array
+        (
+            [symbol] => ZH013804
+            [market] => us
+            [name] => 垃圾不垃圾
+            [net_value] => 1.4209
+            [daily_gain] => -2.57
+            [monthly_gain] => -28.28
+            [total_gain] => 42.09
+            [annualized_gain] => 42.09
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013805] => Array
+        (
+            [symbol] => ZH013805
+            [market] => cn
+            [name] => 进击的小白
+            [net_value] => 0.9707
+            [daily_gain] => 0.35
+            [monthly_gain] => 3.11
+            [total_gain] => -2.93
+            [annualized_gain] => -2.93
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013806] => Array
+        (
+            [symbol] => ZH013806
+            [market] => cn
+            [name] => 申城的明天
+            [net_value] => 0.9751
+            [daily_gain] => 0.71
+            [monthly_gain] => -2.49
+            [total_gain] => -2.49
+            [annualized_gain] => -2.49
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013807] => Array
+        (
+            [symbol] => ZH013807
+            [market] => cn
+            [name] => 炒股是一辈子的事
+            [net_value] => 1.1993
+            [daily_gain] => 1.68
+            [monthly_gain] => 5.24
+            [total_gain] => 19.93
+            [annualized_gain] => 19.93
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013808] => Array
+        (
+            [symbol] => ZH013808
+            [market] => cn
+            [name] => 马到成功
+            [net_value] => 1.3976
+            [daily_gain] => 8.52
+            [monthly_gain] => 28.61
+            [total_gain] => 39.76
+            [annualized_gain] => 39.76
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013809] => Array
+        (
+            [symbol] => ZH013809
+            [market] => cn
+            [name] => 不鸣则已
+            [net_value] => 1.0004
+            [daily_gain] => 0.05
+            [monthly_gain] => 4.56
+            [total_gain] => 0.04
+            [annualized_gain] => 0.04
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013810] => Array
+        (
+            [symbol] => ZH013810
+            [market] => cn
+            [name] => 余则成潜伏
+            [net_value] => 0.9915
+            [daily_gain] => -0.31
+            [monthly_gain] => 0.05
+            [total_gain] => -0.85
+            [annualized_gain] => -0.85
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013811] => Array
+        (
+            [symbol] => ZH013811
+            [market] => hk
+            [name] => Winner
+            [net_value] => 0.8839
+            [daily_gain] => -0.78
+            [monthly_gain] => -2.60
+            [total_gain] => -11.61
+            [annualized_gain] => -11.61
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013812] => Array
+        (
+            [symbol] => ZH013812
+            [market] => cn
+            [name] => 迷你组合
+            [net_value] => 0.8890
+            [daily_gain] => 1.04
+            [monthly_gain] => 1.60
+            [total_gain] => -11.10
+            [annualized_gain] => -11.10
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013813] => Array
+        (
+            [symbol] => ZH013813
+            [market] => cn
+            [name] => 财务自由之旅
+            [net_value] => 1.1595
+            [daily_gain] => -0.10
+            [monthly_gain] => 2.17
+            [total_gain] => 15.95
+            [annualized_gain] => 15.95
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013814] => Array
+        (
+            [symbol] => ZH013814
+            [market] => cn
+            [name] => 雪菲特888
+            [net_value] => 1.0374
+            [daily_gain] => 0.85
+            [monthly_gain] => 1.59
+            [total_gain] => 3.74
+            [annualized_gain] => 3.74
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013815] => Array
+        (
+            [symbol] => ZH013815
+            [market] => cn
+            [name] => 进取创业
+            [net_value] => 0.8862
+            [daily_gain] => 0.59
+            [monthly_gain] => 5.03
+            [total_gain] => -11.38
+            [annualized_gain] => -11.38
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013816] => Array
+        (
+            [symbol] => ZH013816
+            [market] => cn
+            [name] => 玲琅满目V中线
+            [net_value] => 0.9615
+            [daily_gain] => 0.07
+            [monthly_gain] => 4.09
+            [total_gain] => -3.85
+            [annualized_gain] => -3.85
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013817] => Array
+        (
+            [symbol] => ZH013817
+            [market] => cn
+            [name] => 焦点一刻
+            [net_value] => 1.1337
+            [daily_gain] => -1.15
+            [monthly_gain] => -5.20
+            [total_gain] => 13.37
+            [annualized_gain] => 13.37
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013818] => Array
+        (
+            [symbol] => ZH013818
+            [market] => cn
+            [name] => 只做一只股票
+            [net_value] => 1.1282
+            [daily_gain] => 3.18
+            [monthly_gain] => 4.44
+            [total_gain] => 12.82
+            [annualized_gain] => 12.82
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013819] => Array
+        (
+            [symbol] => ZH013819
+            [market] => cn
+            [name] => 阿弥陀佛前途无量
+            [net_value] => 1.2985
+            [daily_gain] => 0.88
+            [monthly_gain] => 4.24
+            [total_gain] => 29.85
+            [annualized_gain] => 29.85
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013820] => Array
+        (
+            [symbol] => ZH013820
+            [market] => cn
+            [name] => 工业革命
+            [net_value] => 1.0000
+            [daily_gain] => 0.00
+            [monthly_gain] => 0.00
+            [total_gain] => 0.00
+            [annualized_gain] => 0.00
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013821] => Array
+        (
+            [symbol] => ZH013821
+            [market] => cn
+            [name] => greenhand
+            [net_value] => 1.1227
+            [daily_gain] => 1.26
+            [monthly_gain] => 0.45
+            [total_gain] => 12.27
+            [annualized_gain] => 12.27
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013822] => Array
+        (
+            [symbol] => ZH013822
+            [market] => cn
+            [name] => 翻翻吧
+            [net_value] => 0.9657
+            [daily_gain] => 2.23
+            [monthly_gain] => 3.15
+            [total_gain] => -3.43
+            [annualized_gain] => -3.43
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013823] => Array
+        (
+            [symbol] => ZH013823
+            [market] => cn
+            [name] => studyen
+            [net_value] => 1.3869
+            [daily_gain] => 2.03
+            [monthly_gain] => 1.46
+            [total_gain] => 38.69
+            [annualized_gain] => 38.69
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013824] => Array
+        (
+            [symbol] => ZH013824
+            [market] => cn
+            [name] => 啊哦
+            [net_value] => 1.2159
+            [daily_gain] => 0.04
+            [monthly_gain] => -1.58
+            [total_gain] => 21.59
+            [annualized_gain] => 21.59
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013825] => Array
+        (
+            [symbol] => ZH013825
+            [market] => cn
+            [name] => 雪临
+            [net_value] => 1.0682
+            [daily_gain] => 3.95
+            [monthly_gain] => 5.99
+            [total_gain] => 6.82
+            [annualized_gain] => 6.82
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013826] => Array
+        (
+            [symbol] => ZH013826
+            [market] => cn
+            [name] => 逗比1号
+            [net_value] => 1.0729
+            [daily_gain] => 0.50
+            [monthly_gain] => 0.67
+            [total_gain] => 7.29
+            [annualized_gain] => 7.29
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013827] => Array
+        (
+            [symbol] => ZH013827
+            [market] => cn
+            [name] => 保证一一一一赚翻
+            [net_value] => 1.6948
+            [daily_gain] => -0.05
+            [monthly_gain] => 3.31
+            [total_gain] => 69.48
+            [annualized_gain] => 69.48
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013828] => Array
+        (
+            [symbol] => ZH013828
+            [market] => us
+            [name] => 万倍无敌吊炸天
+            [net_value] => 0.0662
+            [daily_gain] => 0.00
+            [monthly_gain] => 0.00
+            [total_gain] => -93.38
+            [annualized_gain] => -93.38
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013829] => Array
+        (
+            [symbol] => ZH013829
+            [market] => cn
+            [name] => 好戏在后头
+            [net_value] => 1.1048
+            [daily_gain] => 0.78
+            [monthly_gain] => -1.76
+            [total_gain] => 10.48
+            [annualized_gain] => 10.48
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013830] => Array
+        (
+            [symbol] => ZH013830
+            [market] => us
+            [name] => Freedom
+            [net_value] => 0.8489
+            [daily_gain] => -2.73
+            [monthly_gain] => -7.49
+            [total_gain] => -15.11
+            [annualized_gain] => -15.11
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013831] => Array
+        (
+            [symbol] => ZH013831
+            [market] => cn
+            [name] => 朕临雪
+            [net_value] => 1.0000
+            [daily_gain] => 0.00
+            [monthly_gain] => 0.00
+            [total_gain] => 0.00
+            [annualized_gain] => 0.00
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013832] => Array
+        (
+            [symbol] => ZH013832
+            [market] => cn
+            [name] => 烟酒僧沪深1号
+            [net_value] => 1.0929
+            [daily_gain] => 3.25
+            [monthly_gain] => 7.26
+            [total_gain] => 9.29
+            [annualized_gain] => 9.29
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013833] => Array
+        (
+            [symbol] => ZH013833
+            [market] => cn
+            [name] => 雪花膏
+            [net_value] => 0.8602
+            [daily_gain] => 0.65
+            [monthly_gain] => -0.11
+            [total_gain] => -13.98
+            [annualized_gain] => -13.98
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013834] => Array
+        (
+            [symbol] => ZH013834
+            [market] => cn
+            [name] => 坐看云起时
+            [net_value] => 0.9938
+            [daily_gain] => 0.64
+            [monthly_gain] => 2.30
+            [total_gain] => -0.62
+            [annualized_gain] => -0.62
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013835] => Array
+        (
+            [symbol] => ZH013835
+            [market] => cn
+            [name] => 未来产业
+            [net_value] => 1.1440
+            [daily_gain] => 5.01
+            [monthly_gain] => 15.51
+            [total_gain] => 14.40
+            [annualized_gain] => 14.40
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013836] => Array
+        (
+            [symbol] => ZH013836
+            [market] => cn
+            [name] => 雪梨谢
+            [net_value] => 1.0509
+            [daily_gain] => 1.65
+            [monthly_gain] => 1.68
+            [total_gain] => 5.09
+            [annualized_gain] => 5.09
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013837] => Array
+        (
+            [symbol] => ZH013837
+            [market] => cn
+            [name] => 细水长流
+            [net_value] => 1.2640
+            [daily_gain] => 0.22
+            [monthly_gain] => 1.48
+            [total_gain] => 26.40
+            [annualized_gain] => 26.40
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013838] => Array
+        (
+            [symbol] => ZH013838
+            [market] => cn
+            [name] => 反向指标
+            [net_value] => 0.9376
+            [daily_gain] => -0.97
+            [monthly_gain] => 4.00
+            [total_gain] => -6.24
+            [annualized_gain] => -6.24
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013839] => Array
+        (
+            [symbol] => ZH013839
+            [market] => cn
+            [name] => wili
+            [net_value] => 0.9988
+            [daily_gain] => 0.09
+            [monthly_gain] => 0.22
+            [total_gain] => -0.12
+            [annualized_gain] => -0.12
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013840] => Array
+        (
+            [symbol] => ZH013840
+            [market] => cn
+            [name] => 稳进一号
+            [net_value] => 1.0978
+            [daily_gain] => 1.77
+            [monthly_gain] => 2.32
+            [total_gain] => 9.78
+            [annualized_gain] => 9.78
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013841] => Array
+        (
+            [symbol] => ZH013841
+            [market] => cn
+            [name] => 钱江潮1号
+            [net_value] => 0.9170
+            [daily_gain] => 2.56
+            [monthly_gain] => 5.14
+            [total_gain] => -8.30
+            [annualized_gain] => -8.30
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013842] => Array
+        (
+            [symbol] => ZH013842
+            [market] => cn
+            [name] => test
+            [net_value] => 1.0000
+            [daily_gain] => 0.00
+            [monthly_gain] => 0.00
+            [total_gain] => 0.00
+            [annualized_gain] => 0.00
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013843] => Array
+        (
+            [symbol] => ZH013843
+            [market] => cn
+            [name] => 贰零壹伍年
+            [net_value] => 1.1490
+            [daily_gain] => 3.21
+            [monthly_gain] => 8.78
+            [total_gain] => 14.90
+            [annualized_gain] => 14.90
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013844] => Array
+        (
+            [symbol] => ZH013844
+            [market] => cn
+            [name] => 7里8里
+            [net_value] => 0.9588
+            [daily_gain] => 2.87
+            [monthly_gain] => 4.79
+            [total_gain] => -4.12
+            [annualized_gain] => -4.12
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013845] => Array
+        (
+            [symbol] => ZH013845
+            [market] => hk
+            [name] => 反向指标3
+            [net_value] => 0.5926
+            [daily_gain] => -2.95
+            [monthly_gain] => -7.74
+            [total_gain] => -40.74
+            [annualized_gain] => -40.74
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013846] => Array
+        (
+            [symbol] => ZH013846
+            [market] => cn
+            [name] => 和高管一起炒股
+            [net_value] => 1.0694
+            [daily_gain] => 3.95
+            [monthly_gain] => 9.01
+            [total_gain] => 6.94
+            [annualized_gain] => 6.94
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013847] => Array
+        (
+            [symbol] => ZH013847
+            [market] => cn
+            [name] => 梦幻一号
+            [net_value] => 0.9601
+            [daily_gain] => 1.93
+            [monthly_gain] => 4.87
+            [total_gain] => -3.99
+            [annualized_gain] => -3.99
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013848] => Array
+        (
+            [symbol] => ZH013848
+            [market] => cn
+            [name] => 超越当年
+            [net_value] => 1.0699
+            [daily_gain] => 0.34
+            [monthly_gain] => -0.25
+            [total_gain] => 6.99
+            [annualized_gain] => 6.99
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013849] => Array
+        (
+            [symbol] => ZH013849
+            [market] => cn
+            [name] => 追踪美股做A股
+            [net_value] => 0.8781
+            [daily_gain] => 2.90
+            [monthly_gain] => 9.28
+            [total_gain] => -12.19
+            [annualized_gain] => -12.19
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013850] => Array
+        (
+            [symbol] => ZH013850
+            [market] => us
+            [name] => 互联网价值发现
+            [net_value] => 0.8498
+            [daily_gain] => 1.20
+            [monthly_gain] => -3.83
+            [total_gain] => -15.02
+            [annualized_gain] => -15.02
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013851] => Array
+        (
+            [symbol] => ZH013851
+            [market] => cn
+            [name] => 遇见未来
+            [net_value] => 1.8740
+            [daily_gain] => 9.93
+            [monthly_gain] => 50.30
+            [total_gain] => 87.40
+            [annualized_gain] => 87.40
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013852] => Array
+        (
+            [symbol] => ZH013852
+            [market] => cn
+            [name] => 太差了太菜了
+            [net_value] => 1.1028
+            [daily_gain] => 1.25
+            [monthly_gain] => 5.79
+            [total_gain] => 10.28
+            [annualized_gain] => 10.28
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013853] => Array
+        (
+            [symbol] => ZH013853
+            [market] => cn
+            [name] => 群岛壹号
+            [net_value] => 0.8968
+            [daily_gain] => 0.21
+            [monthly_gain] => 0.15
+            [total_gain] => -10.32
+            [annualized_gain] => -10.32
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013854] => Array
+        (
+            [symbol] => ZH013854
+            [market] => cn
+            [name] => 霸王龙2015
+            [net_value] => 1.1630
+            [daily_gain] => -0.68
+            [monthly_gain] => -5.02
+            [total_gain] => 16.30
+            [annualized_gain] => 16.30
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013855] => Array
+        (
+            [symbol] => ZH013855
+            [market] => cn
+            [name] => 低市盈率投资组合
+            [net_value] => 1.3645
+            [daily_gain] => 0.09
+            [monthly_gain] => 2.34
+            [total_gain] => 36.45
+            [annualized_gain] => 36.45
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013856] => Array
+        (
+            [symbol] => ZH013856
+            [market] => cn
+            [name] => 独立思考组合
+            [net_value] => 1.5257
+            [daily_gain] => -0.71
+            [monthly_gain] => 1.29
+            [total_gain] => 52.57
+            [annualized_gain] => 52.57
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013857] => Array
+        (
+            [symbol] => ZH013857
+            [market] => cn
+            [name] => 成名在望
+            [net_value] => 1.0636
+            [daily_gain] => 0.22
+            [monthly_gain] => 0.94
+            [total_gain] => 6.36
+            [annualized_gain] => 6.36
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013858] => Array
+        (
+            [symbol] => ZH013858
+            [market] => cn
+            [name] => 逗号2014
+            [net_value] => 1.1864
+            [daily_gain] => 1.16
+            [monthly_gain] => 3.24
+            [total_gain] => 18.64
+            [annualized_gain] => 18.64
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013859] => Array
+        (
+            [symbol] => ZH013859
+            [market] => cn
+            [name] => 核心组合
+            [net_value] => 0.8875
+            [daily_gain] => 1.40
+            [monthly_gain] => 4.27
+            [total_gain] => -11.25
+            [annualized_gain] => -11.25
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013860] => Array
+        (
+            [symbol] => ZH013860
+            [market] => us
+            [name] => 皮皮鲁2号
+            [net_value] => 1.0765
+            [daily_gain] => 0.68
+            [monthly_gain] => -4.52
+            [total_gain] => 7.65
+            [annualized_gain] => 7.65
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013861] => Array
+        (
+            [symbol] => ZH013861
+            [market] => cn
+            [name] => 沉默突击
+            [net_value] => 1.2525
+            [daily_gain] => 1.04
+            [monthly_gain] => 0.90
+            [total_gain] => 25.25
+            [annualized_gain] => 25.25
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013862] => Array
+        (
+            [symbol] => ZH013862
+            [market] => cn
+            [name] => 改革红利1号
+            [net_value] => 0.8530
+            [daily_gain] => 2.19
+            [monthly_gain] => 5.27
+            [total_gain] => -14.70
+            [annualized_gain] => -14.70
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013863] => Array
+        (
+            [symbol] => ZH013863
+            [market] => cn
+            [name] => 保本第一
+            [net_value] => 1.2338
+            [daily_gain] => 0.82
+            [monthly_gain] => -2.35
+            [total_gain] => 23.38
+            [annualized_gain] => 23.38
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013864] => Array
+        (
+            [symbol] => ZH013864
+            [market] => cn
+            [name] => 宝盈创投
+            [net_value] => 0.8272
+            [daily_gain] => 0.23
+            [monthly_gain] => -5.67
+            [total_gain] => -17.28
+            [annualized_gain] => -17.28
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013865] => Array
+        (
+            [symbol] => ZH013865
+            [market] => cn
+            [name] => 高管增持
+            [net_value] => 0.9465
+            [daily_gain] => 1.05
+            [monthly_gain] => 7.51
+            [total_gain] => -5.35
+            [annualized_gain] => -5.35
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013866] => Array
+        (
+            [symbol] => ZH013866
+            [market] => cn
+            [name] => 跟着券商混
+            [net_value] => 1.0946
+            [daily_gain] => -1.38
+            [monthly_gain] => -2.92
+            [total_gain] => 9.46
+            [annualized_gain] => 9.46
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013867] => Array
+        (
+            [symbol] => ZH013867
+            [market] => cn
+            [name] => 上海国资改革实验
+            [net_value] => 1.1245
+            [daily_gain] => 0.92
+            [monthly_gain] => 3.07
+            [total_gain] => 12.45
+            [annualized_gain] => 12.45
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013868] => Array
+        (
+            [symbol] => ZH013868
+            [market] => cn
+            [name] => 重组翻翻翻
+            [net_value] => 0.9910
+            [daily_gain] => 0.40
+            [monthly_gain] => 2.29
+            [total_gain] => -0.90
+            [annualized_gain] => -0.90
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013869] => Array
+        (
+            [symbol] => ZH013869
+            [market] => cn
+            [name] => 从零开始
+            [net_value] => 1.0000
+            [daily_gain] => 0.00
+            [monthly_gain] => 0.00
+            [total_gain] => 0.00
+            [annualized_gain] => 0.00
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013870] => Array
+        (
+            [symbol] => ZH013870
+            [market] => cn
+            [name] => 挣钱才是王道
+            [net_value] => 1.0931
+            [daily_gain] => 0.36
+            [monthly_gain] => 1.89
+            [total_gain] => 9.31
+            [annualized_gain] => 9.31
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013871] => Array
+        (
+            [symbol] => ZH013871
+            [market] => cn
+            [name] => 天地1号
+            [net_value] => 0.9275
+            [daily_gain] => 2.26
+            [monthly_gain] => -0.06
+            [total_gain] => -7.25
+            [annualized_gain] => -7.25
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013872] => Array
+        (
+            [symbol] => ZH013872
+            [market] => cn
+            [name] => 滴水成河
+            [net_value] => 1.0049
+            [daily_gain] => 1.51
+            [monthly_gain] => 8.48
+            [total_gain] => 0.49
+            [annualized_gain] => 0.49
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013873] => Array
+        (
+            [symbol] => ZH013873
+            [market] => cn
+            [name] => 红星一号
+            [net_value] => 0.8155
+            [daily_gain] => 2.49
+            [monthly_gain] => 1.26
+            [total_gain] => -18.45
+            [annualized_gain] => -18.45
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013874] => Array
+        (
+            [symbol] => ZH013874
+            [market] => cn
+            [name] => 个人持仓组合
+            [net_value] => 1.5086
+            [daily_gain] => -0.48
+            [monthly_gain] => 1.76
+            [total_gain] => 50.86
+            [annualized_gain] => 50.86
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013875] => Array
+        (
+            [symbol] => ZH013875
+            [market] => cn
+            [name] => Oneil
+            [net_value] => 1.2739
+            [daily_gain] => -0.05
+            [monthly_gain] => 6.82
+            [total_gain] => 27.39
+            [annualized_gain] => 27.39
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013876] => Array
+        (
+            [symbol] => ZH013876
+            [market] => us
+            [name] => 群岛贰号
+            [net_value] => 0.9062
+            [daily_gain] => -0.27
+            [monthly_gain] => -4.65
+            [total_gain] => -9.38
+            [annualized_gain] => -9.38
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013877] => Array
+        (
+            [symbol] => ZH013877
+            [market] => cn
+            [name] => 成长性基金1号
+            [net_value] => 0.9943
+            [daily_gain] => 2.20
+            [monthly_gain] => 5.80
+            [total_gain] => -0.57
+            [annualized_gain] => -0.57
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013878] => Array
+        (
+            [symbol] => ZH013878
+            [market] => cn
+            [name] => 见证
+            [net_value] => 1.0336
+            [daily_gain] => 0.56
+            [monthly_gain] => 12.33
+            [total_gain] => 3.36
+            [annualized_gain] => 3.36
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013879] => Array
+        (
+            [symbol] => ZH013879
+            [market] => cn
+            [name] => 愚心
+            [net_value] => 1.4565
+            [daily_gain] => 0.24
+            [monthly_gain] => -1.28
+            [total_gain] => 45.65
+            [annualized_gain] => 45.65
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013880] => Array
+        (
+            [symbol] => ZH013880
+            [market] => hk
+            [name] => 群岛叁号
+            [net_value] => 0.9919
+            [daily_gain] => -1.19
+            [monthly_gain] => 2.32
+            [total_gain] => -0.81
+            [annualized_gain] => -0.81
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013881] => Array
+        (
+            [symbol] => ZH013881
+            [market] => us
+            [name] => 美股互联网价值
+            [net_value] => 0.8500
+            [daily_gain] => 1.31
+            [monthly_gain] => -4.13
+            [total_gain] => -15.00
+            [annualized_gain] => -15.00
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013882] => Array
+        (
+            [symbol] => ZH013882
+            [market] => cn
+            [name] => 长线是金2015
+            [net_value] => 1.0000
+            [daily_gain] => 0.00
+            [monthly_gain] => 0.00
+            [total_gain] => 0.00
+            [annualized_gain] => 0.00
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013883] => Array
+        (
+            [symbol] => ZH013883
+            [market] => cn
+            [name] => 牛气冲天
+            [net_value] => 1.0461
+            [daily_gain] => 2.48
+            [monthly_gain] => 9.29
+            [total_gain] => 4.61
+            [annualized_gain] => 4.61
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013884] => Array
+        (
+            [symbol] => ZH013884
+            [market] => cn
+            [name] => 天高云淡
+            [net_value] => 1.5418
+            [daily_gain] => -0.36
+            [monthly_gain] => 1.76
+            [total_gain] => 54.18
+            [annualized_gain] => 54.18
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013885] => Array
+        (
+            [symbol] => ZH013885
+            [market] => cn
+            [name] => 一马当先
+            [net_value] => 1.4440
+            [daily_gain] => -0.11
+            [monthly_gain] => 13.07
+            [total_gain] => 44.40
+            [annualized_gain] => 44.40
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013886] => Array
+        (
+            [symbol] => ZH013886
+            [market] => cn
+            [name] => 屁股神功
+            [net_value] => 1.2870
+            [daily_gain] => 1.76
+            [monthly_gain] => 8.90
+            [total_gain] => 28.70
+            [annualized_gain] => 28.70
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013887] => Array
+        (
+            [symbol] => ZH013887
+            [market] => cn
+            [name] => 实际持仓
+            [net_value] => 1.0534
+            [daily_gain] => 0.19
+            [monthly_gain] => 3.87
+            [total_gain] => 5.34
+            [annualized_gain] => 5.34
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013888] => Array
+        (
+            [symbol] => ZH013888
+            [market] => us
+            [name] => 随便
+            [net_value] => 0.9012
+            [daily_gain] => 0.32
+            [monthly_gain] => -0.56
+            [total_gain] => -9.88
+            [annualized_gain] => -9.88
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013889] => Array
+        (
+            [symbol] => ZH013889
+            [market] => cn
+            [name] => 只选三只股
+            [net_value] => 1.3913
+            [daily_gain] => -0.03
+            [monthly_gain] => -1.77
+            [total_gain] => 39.13
+            [annualized_gain] => 39.13
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013890] => Array
+        (
+            [symbol] => ZH013890
+            [market] => cn
+            [name] => 日不落-木
+            [net_value] => 0.9307
+            [daily_gain] => 0.78
+            [monthly_gain] => -2.33
+            [total_gain] => -6.93
+            [annualized_gain] => -6.93
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013891] => Array
+        (
+            [symbol] => ZH013891
+            [market] => us
+            [name] => 但求最贵
+            [net_value] => 0.9533
+            [daily_gain] => 1.12
+            [monthly_gain] => -2.05
+            [total_gain] => -4.67
+            [annualized_gain] => -4.67
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013892] => Array
+        (
+            [symbol] => ZH013892
+            [market] => cn
+            [name] => 心安赚长钱
+            [net_value] => 1.2982
+            [daily_gain] => 0.50
+            [monthly_gain] => 2.69
+            [total_gain] => 29.82
+            [annualized_gain] => 29.82
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013893] => Array
+        (
+            [symbol] => ZH013893
+            [market] => cn
+            [name] => 非猪即牛
+            [net_value] => 0.9919
+            [daily_gain] => 2.88
+            [monthly_gain] => 9.05
+            [total_gain] => -0.81
+            [annualized_gain] => -0.81
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013894] => Array
+        (
+            [symbol] => ZH013894
+            [market] => cn
+            [name] => 一招鲜吃遍天
+            [net_value] => 1.2832
+            [daily_gain] => 3.31
+            [monthly_gain] => 5.45
+            [total_gain] => 28.32
+            [annualized_gain] => 28.32
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013895] => Array
+        (
+            [symbol] => ZH013895
+            [market] => cn
+            [name] => wodima
+            [net_value] => 1.1492
+            [daily_gain] => 2.06
+            [monthly_gain] => -2.57
+            [total_gain] => 14.92
+            [annualized_gain] => 14.92
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013896] => Array
+        (
+            [symbol] => ZH013896
+            [market] => cn
+            [name] => 东方通信赚
+            [net_value] => 0.8488
+            [daily_gain] => 0.70
+            [monthly_gain] => 5.66
+            [total_gain] => -15.12
+            [annualized_gain] => -15.12
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013897] => Array
+        (
+            [symbol] => ZH013897
+            [market] => cn
+            [name] => 券商
+            [net_value] => 1.0967
+            [daily_gain] => -0.25
+            [monthly_gain] => -0.54
+            [total_gain] => 9.67
+            [annualized_gain] => 9.67
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013898] => Array
+        (
+            [symbol] => ZH013898
+            [market] => hk
+            [name] => 守株待兔
+            [net_value] => 0.9224
+            [daily_gain] => -0.36
+            [monthly_gain] => -0.26
+            [total_gain] => -7.76
+            [annualized_gain] => -7.76
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013899] => Array
+        (
+            [symbol] => ZH013899
+            [market] => cn
+            [name] => 猴猴牛骨组a
+            [net_value] => 1.0000
+            [daily_gain] => 0.00
+            [monthly_gain] => 0.00
+            [total_gain] => 0.00
+            [annualized_gain] => 0.00
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013900] => Array
+        (
+            [symbol] => ZH013900
+            [market] => cn
+            [name] => 进击的市盈率
+            [net_value] => 1.1513
+            [daily_gain] => -0.03
+            [monthly_gain] => 1.09
+            [total_gain] => 15.13
+            [annualized_gain] => 15.13
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013901] => Array
+        (
+            [symbol] => ZH013901
+            [market] => cn
+            [name] => 泰山鸿毛组合
+            [net_value] => 1.4408
+            [daily_gain] => 0.49
+            [monthly_gain] => 3.30
+            [total_gain] => 44.08
+            [annualized_gain] => 44.08
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013902] => Array
+        (
+            [symbol] => ZH013902
+            [market] => cn
+            [name] => 明日之星长线
+            [net_value] => 1.0940
+            [daily_gain] => 0.43
+            [monthly_gain] => 1.17
+            [total_gain] => 9.40
+            [annualized_gain] => 9.40
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013903] => Array
+        (
+            [symbol] => ZH013903
+            [market] => cn
+            [name] => 义利热心A
+            [net_value] => 1.2451
+            [daily_gain] => 0.54
+            [monthly_gain] => 2.11
+            [total_gain] => 24.51
+            [annualized_gain] => 24.51
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013904] => Array
+        (
+            [symbol] => ZH013904
+            [market] => cn
+            [name] => 格格不如
+            [net_value] => 1.3963
+            [daily_gain] => -1.29
+            [monthly_gain] => 15.52
+            [total_gain] => 39.63
+            [annualized_gain] => 39.63
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013905] => Array
+        (
+            [symbol] => ZH013905
+            [market] => us
+            [name] => 斗牛孤独
+            [net_value] => 0.9099
+            [daily_gain] => 1.48
+            [monthly_gain] => -8.25
+            [total_gain] => -9.01
+            [annualized_gain] => -9.01
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013906] => Array
+        (
+            [symbol] => ZH013906
+            [market] => cn
+            [name] => 第一生产力
+            [net_value] => 1.0941
+            [daily_gain] => 1.47
+            [monthly_gain] => 7.48
+            [total_gain] => 9.41
+            [annualized_gain] => 9.41
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013907] => Array
+        (
+            [symbol] => ZH013907
+            [market] => cn
+            [name] => 天使一号
+            [net_value] => 1.2434
+            [daily_gain] => 5.21
+            [monthly_gain] => 20.36
+            [total_gain] => 24.34
+            [annualized_gain] => 24.34
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013908] => Array
+        (
+            [symbol] => ZH013908
+            [market] => cn
+            [name] => 陆零壹
+            [net_value] => 1.2121
+            [daily_gain] => -0.10
+            [monthly_gain] => 1.65
+            [total_gain] => 21.21
+            [annualized_gain] => 21.21
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013909] => Array
+        (
+            [symbol] => ZH013909
+            [market] => hk
+            [name] => 中国好牛逼
+            [net_value] => 0.8515
+            [daily_gain] => -1.30
+            [monthly_gain] => -3.49
+            [total_gain] => -14.85
+            [annualized_gain] => -14.85
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013910] => Array
+        (
+            [symbol] => ZH013910
+            [market] => us
+            [name] => 互联网价值
+            [net_value] => 0.9924
+            [daily_gain] => 0.03
+            [monthly_gain] => -0.31
+            [total_gain] => -0.76
+            [annualized_gain] => -0.76
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013911] => Array
+        (
+            [symbol] => ZH013911
+            [market] => cn
+            [name] => Q基金
+            [net_value] => 1.2188
+            [daily_gain] => 0.79
+            [monthly_gain] => 3.52
+            [total_gain] => 21.88
+            [annualized_gain] => 21.88
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013912] => Array
+        (
+            [symbol] => ZH013912
+            [market] => cn
+            [name] => 钱途
+            [net_value] => 0.9065
+            [daily_gain] => 2.69
+            [monthly_gain] => 3.43
+            [total_gain] => -9.35
+            [annualized_gain] => -9.35
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013913] => Array
+        (
+            [symbol] => ZH013913
+            [market] => cn
+            [name] => 愿赌服输
+            [net_value] => 0.9278
+            [daily_gain] => 0.92
+            [monthly_gain] => 7.31
+            [total_gain] => -7.22
+            [annualized_gain] => -7.22
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013914] => Array
+        (
+            [symbol] => ZH013914
+            [market] => cn
+            [name] => 2015飘云组合
+            [net_value] => 0.9217
+            [daily_gain] => 0.35
+            [monthly_gain] => 1.03
+            [total_gain] => -7.83
+            [annualized_gain] => -7.83
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013915] => Array
+        (
+            [symbol] => ZH013915
+            [market] => us
+            [name] => 维吉尔
+            [net_value] => 0.9533
+            [daily_gain] => 1.25
+            [monthly_gain] => -1.82
+            [total_gain] => -4.67
+            [annualized_gain] => -4.67
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013916] => Array
+        (
+            [symbol] => ZH013916
+            [market] => cn
+            [name] => 中华老字号
+            [net_value] => 1.0938
+            [daily_gain] => 1.21
+            [monthly_gain] => 4.17
+            [total_gain] => 9.38
+            [annualized_gain] => 9.38
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013917] => Array
+        (
+            [symbol] => ZH013917
+            [market] => cn
+            [name] => 测试
+            [net_value] => 1.5707
+            [daily_gain] => -0.62
+            [monthly_gain] => 2.56
+            [total_gain] => 57.07
+            [annualized_gain] => 57.07
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013918] => Array
+        (
+            [symbol] => ZH013918
+            [market] => cn
+            [name] => 南海消费
+            [net_value] => 1.0592
+            [daily_gain] => 0.68
+            [monthly_gain] => 0.55
+            [total_gain] => 5.92
+            [annualized_gain] => 5.92
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013919] => Array
+        (
+            [symbol] => ZH013919
+            [market] => cn
+            [name] => 有生之年
+            [net_value] => 1.1518
+            [daily_gain] => 1.02
+            [monthly_gain] => 3.42
+            [total_gain] => 15.18
+            [annualized_gain] => 15.18
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013920] => Array
+        (
+            [symbol] => ZH013920
+            [market] => cn
+            [name] => 二次突破
+            [net_value] => 0.8943
+            [daily_gain] => 0.20
+            [monthly_gain] => 0.71
+            [total_gain] => -10.57
+            [annualized_gain] => -10.57
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013921] => Array
+        (
+            [symbol] => ZH013921
+            [market] => hk
+            [name] => 菜鸟先飞
+            [net_value] => 1.0104
+            [daily_gain] => -0.69
+            [monthly_gain] => -3.21
+            [total_gain] => 1.04
+            [annualized_gain] => 1.04
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013922] => Array
+        (
+            [symbol] => ZH013922
+            [market] => cn
+            [name] => 随便来点儿
+            [net_value] => 1.1022
+            [daily_gain] => -0.61
+            [monthly_gain] => -3.56
+            [total_gain] => 10.22
+            [annualized_gain] => 10.22
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013923] => Array
+        (
+            [symbol] => ZH013923
+            [market] => cn
+            [name] => 突破与补涨
+            [net_value] => 1.0376
+            [daily_gain] => 0.57
+            [monthly_gain] => 5.52
+            [total_gain] => 3.76
+            [annualized_gain] => 3.76
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013924] => Array
+        (
+            [symbol] => ZH013924
+            [market] => cn
+            [name] => 僵尸
+            [net_value] => 1.2143
+            [daily_gain] => 1.57
+            [monthly_gain] => 4.54
+            [total_gain] => 21.43
+            [annualized_gain] => 21.43
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013925] => Array
+        (
+            [symbol] => ZH013925
+            [market] => cn
+            [name] => 火药
+            [net_value] => 1.1247
+            [daily_gain] => 2.36
+            [monthly_gain] => 3.06
+            [total_gain] => 12.47
+            [annualized_gain] => 12.47
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013926] => Array
+        (
+            [symbol] => ZH013926
+            [market] => hk
+            [name] => 水陆一网
+            [net_value] => 0.9156
+            [daily_gain] => -0.51
+            [monthly_gain] => -0.20
+            [total_gain] => -8.44
+            [annualized_gain] => -8.44
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013927] => Array
+        (
+            [symbol] => ZH013927
+            [market] => cn
+            [name] => 渣渣渣
+            [net_value] => 1.5417
+            [daily_gain] => -0.39
+            [monthly_gain] => -3.46
+            [total_gain] => 54.17
+            [annualized_gain] => 54.17
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013928] => Array
+        (
+            [symbol] => ZH013928
+            [market] => cn
+            [name] => 圣卒的低风险组合
+            [net_value] => 1.4112
+            [daily_gain] => -0.01
+            [monthly_gain] => 1.31
+            [total_gain] => 41.12
+            [annualized_gain] => 41.12
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013929] => Array
+        (
+            [symbol] => ZH013929
+            [market] => cn
+            [name] => 听故事
+            [net_value] => 0.9936
+            [daily_gain] => 1.00
+            [monthly_gain] => 3.24
+            [total_gain] => -0.64
+            [annualized_gain] => -0.64
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013930] => Array
+        (
+            [symbol] => ZH013930
+            [market] => cn
+            [name] => 骑牛漫步
+            [net_value] => 0.8973
+            [daily_gain] => 1.63
+            [monthly_gain] => 0.24
+            [total_gain] => -10.27
+            [annualized_gain] => -10.27
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013931] => Array
+        (
+            [symbol] => ZH013931
+            [market] => cn
+            [name] => macd
+            [net_value] => 1.1191
+            [daily_gain] => 2.12
+            [monthly_gain] => 0.88
+            [total_gain] => 11.91
+            [annualized_gain] => 11.91
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013932] => Array
+        (
+            [symbol] => ZH013932
+            [market] => cn
+            [name] => 好朋友组合
+            [net_value] => 1.0526
+            [daily_gain] => 0.72
+            [monthly_gain] => 3.41
+            [total_gain] => 5.26
+            [annualized_gain] => 5.26
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013933] => Array
+        (
+            [symbol] => ZH013933
+            [market] => cn
+            [name] => 赚钱才是硬道理
+            [net_value] => 0.9288
+            [daily_gain] => 2.45
+            [monthly_gain] => -1.68
+            [total_gain] => -7.12
+            [annualized_gain] => -7.12
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013934] => Array
+        (
+            [symbol] => ZH013934
+            [market] => cn
+            [name] => 保本也要赢
+            [net_value] => 1.1143
+            [daily_gain] => 0.77
+            [monthly_gain] => 1.37
+            [total_gain] => 11.43
+            [annualized_gain] => 11.43
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013935] => Array
+        (
+            [symbol] => ZH013935
+            [market] => cn
+            [name] => 困境反转十倍
+            [net_value] => 1.2259
+            [daily_gain] => 0.65
+            [monthly_gain] => 8.85
+            [total_gain] => 22.59
+            [annualized_gain] => 22.59
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013936] => Array
+        (
+            [symbol] => ZH013936
+            [market] => cn
+            [name] => 黄金时代
+            [net_value] => 1.2305
+            [daily_gain] => 1.63
+            [monthly_gain] => 5.70
+            [total_gain] => 23.05
+            [annualized_gain] => 23.05
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013937] => Array
+        (
+            [symbol] => ZH013937
+            [market] => cn
+            [name] => 互联网金融四大家
+            [net_value] => 1.4322
+            [daily_gain] => 8.92
+            [monthly_gain] => 38.89
+            [total_gain] => 43.22
+            [annualized_gain] => 43.22
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013938] => Array
+        (
+            [symbol] => ZH013938
+            [market] => cn
+            [name] => 菜鸟测试
+            [net_value] => 1.3783
+            [daily_gain] => -0.40
+            [monthly_gain] => -3.35
+            [total_gain] => 37.83
+            [annualized_gain] => 37.83
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013939] => Array
+        (
+            [symbol] => ZH013939
+            [market] => cn
+            [name] => 翻跟头
+            [net_value] => 0.9506
+            [daily_gain] => 0.51
+            [monthly_gain] => 0.06
+            [total_gain] => -4.94
+            [annualized_gain] => -4.94
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013940] => Array
+        (
+            [symbol] => ZH013940
+            [market] => cn
+            [name] => 金融地产有色
+            [net_value] => 1.2651
+            [daily_gain] => 5.52
+            [monthly_gain] => 11.19
+            [total_gain] => 26.51
+            [annualized_gain] => 26.51
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013941] => Array
+        (
+            [symbol] => ZH013941
+            [market] => us
+            [name] => 美股顺势空etf
+            [net_value] => 0.9879
+            [daily_gain] => -3.33
+            [monthly_gain] => 3.82
+            [total_gain] => -1.21
+            [annualized_gain] => -1.21
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013942] => Array
+        (
+            [symbol] => ZH013942
+            [market] => cn
+            [name] => 有前途
+            [net_value] => 0.9755
+            [daily_gain] => 1.15
+            [monthly_gain] => 5.42
+            [total_gain] => -2.45
+            [annualized_gain] => -2.45
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013943] => Array
+        (
+            [symbol] => ZH013943
+            [market] => cn
+            [name] => 羽坤资本
+            [net_value] => 0.9536
+            [daily_gain] => 0.65
+            [monthly_gain] => 5.85
+            [total_gain] => -4.64
+            [annualized_gain] => -4.64
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013944] => Array
+        (
+            [symbol] => ZH013944
+            [market] => cn
+            [name] => 知止
+            [net_value] => 1.0078
+            [daily_gain] => 1.05
+            [monthly_gain] => 2.02
+            [total_gain] => 0.78
+            [annualized_gain] => 0.78
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013945] => Array
+        (
+            [symbol] => ZH013945
+            [market] => cn
+            [name] => 独立思考
+            [net_value] => 0.8113
+            [daily_gain] => -0.55
+            [monthly_gain] => -1.97
+            [total_gain] => -18.87
+            [annualized_gain] => -18.87
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013946] => Array
+        (
+            [symbol] => ZH013946
+            [market] => cn
+            [name] => 跟随趋势
+            [net_value] => 1.5262
+            [daily_gain] => 1.31
+            [monthly_gain] => 7.56
+            [total_gain] => 52.62
+            [annualized_gain] => 52.62
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013947] => Array
+        (
+            [symbol] => ZH013947
+            [market] => cn
+            [name] => 煤业组合
+            [net_value] => 1.3520
+            [daily_gain] => 0.40
+            [monthly_gain] => 8.53
+            [total_gain] => 35.20
+            [annualized_gain] => 35.20
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013948] => Array
+        (
+            [symbol] => ZH013948
+            [market] => cn
+            [name] => 铜陵嘉爷1号
+            [net_value] => 1.0374
+            [daily_gain] => 0.84
+            [monthly_gain] => 3.02
+            [total_gain] => 3.74
+            [annualized_gain] => 3.74
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013949] => Array
+        (
+            [symbol] => ZH013949
+            [market] => cn
+            [name] => 进攻型
+            [net_value] => 1.1503
+            [daily_gain] => 1.22
+            [monthly_gain] => 1.28
+            [total_gain] => 15.03
+            [annualized_gain] => 15.03
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013950] => Array
+        (
+            [symbol] => ZH013950
+            [market] => us
+            [name] => 我喜欢的美股公司
+            [net_value] => 0.9917
+            [daily_gain] => 0.07
+            [monthly_gain] => -0.22
+            [total_gain] => -0.83
+            [annualized_gain] => -0.83
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013951] => Array
+        (
+            [symbol] => ZH013951
+            [market] => cn
+            [name] => ND2
+            [net_value] => 1.0000
+            [daily_gain] => 0.00
+            [monthly_gain] => 0.00
+            [total_gain] => 0.00
+            [annualized_gain] => 0.00
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013952] => Array
+        (
+            [symbol] => ZH013952
+            [market] => cn
+            [name] => 金坊2号
+            [net_value] => 1.4028
+            [daily_gain] => -0.32
+            [monthly_gain] => 2.29
+            [total_gain] => 40.28
+            [annualized_gain] => 40.28
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013953] => Array
+        (
+            [symbol] => ZH013953
+            [market] => cn
+            [name] => 独钓寒江雪
+            [net_value] => 1.0003
+            [daily_gain] => 1.03
+            [monthly_gain] => 0.75
+            [total_gain] => 0.03
+            [annualized_gain] => 0.03
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013954] => Array
+        (
+            [symbol] => ZH013954
+            [market] => cn
+            [name] => 闷声发大财
+            [net_value] => 1.1943
+            [daily_gain] => 0.34
+            [monthly_gain] => -0.13
+            [total_gain] => 19.43
+            [annualized_gain] => 19.43
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013955] => Array
+        (
+            [symbol] => ZH013955
+            [market] => us
+            [name] => 10倍组合
+            [net_value] => 0.7911
+            [daily_gain] => -2.42
+            [monthly_gain] => 1.42
+            [total_gain] => -20.89
+            [annualized_gain] => -20.89
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013956] => Array
+        (
+            [symbol] => ZH013956
+            [market] => cn
+            [name] => 蓝筹垃圾乱炖
+            [net_value] => 1.1282
+            [daily_gain] => 0.28
+            [monthly_gain] => -1.96
+            [total_gain] => 12.82
+            [annualized_gain] => 12.82
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013957] => Array
+        (
+            [symbol] => ZH013957
+            [market] => cn
+            [name] => 大大
+            [net_value] => 1.3416
+            [daily_gain] => 0.83
+            [monthly_gain] => 5.06
+            [total_gain] => 34.16
+            [annualized_gain] => 34.16
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013958] => Array
+        (
+            [symbol] => ZH013958
+            [market] => cn
+            [name] => 忘了打理
+            [net_value] => 0.9783
+            [daily_gain] => 1.26
+            [monthly_gain] => 5.00
+            [total_gain] => -2.17
+            [annualized_gain] => -2.17
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013959] => Array
+        (
+            [symbol] => ZH013959
+            [market] => hk
+            [name] => 解放香港
+            [net_value] => 0.9642
+            [daily_gain] => -1.07
+            [monthly_gain] => 12.71
+            [total_gain] => -3.58
+            [annualized_gain] => -3.58
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013960] => Array
+        (
+            [symbol] => ZH013960
+            [market] => cn
+            [name] => 组合在手天下我有
+            [net_value] => 1.4588
+            [daily_gain] => 2.17
+            [monthly_gain] => 4.97
+            [total_gain] => 45.88
+            [annualized_gain] => 45.88
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013961] => Array
+        (
+            [symbol] => ZH013961
+            [market] => cn
+            [name] => a股持有
+            [net_value] => 1.0570
+            [daily_gain] => 3.06
+            [monthly_gain] => 8.89
+            [total_gain] => 5.70
+            [annualized_gain] => 5.70
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013962] => Array
+        (
+            [symbol] => ZH013962
+            [market] => cn
+            [name] => 防守型
+            [net_value] => 1.0303
+            [daily_gain] => 0.31
+            [monthly_gain] => 0.38
+            [total_gain] => 3.03
+            [annualized_gain] => 3.03
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013963] => Array
+        (
+            [symbol] => ZH013963
+            [market] => cn
+            [name] => 不看白不看
+            [net_value] => 1.0044
+            [daily_gain] => 3.03
+            [monthly_gain] => 4.27
+            [total_gain] => 0.44
+            [annualized_gain] => 0.44
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013964] => Array
+        (
+            [symbol] => ZH013964
+            [market] => us
+            [name] => MKTIntelligence
+            [net_value] => 1.0019
+            [daily_gain] => 1.77
+            [monthly_gain] => -3.07
+            [total_gain] => 0.19
+            [annualized_gain] => 0.19
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013965] => Array
+        (
+            [symbol] => ZH013965
+            [market] => cn
+            [name] => 新征程
+            [net_value] => 1.6117
+            [daily_gain] => -0.73
+            [monthly_gain] => 5.99
+            [total_gain] => 61.17
+            [annualized_gain] => 61.17
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013966] => Array
+        (
+            [symbol] => ZH013966
+            [market] => cn
+            [name] => 金坊0号
+            [net_value] => 1.4712
+            [daily_gain] => 0.41
+            [monthly_gain] => 2.14
+            [total_gain] => 47.12
+            [annualized_gain] => 47.12
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013967] => Array
+        (
+            [symbol] => ZH013967
+            [market] => cn
+            [name] => ashu
+            [net_value] => 0.8639
+            [daily_gain] => 1.69
+            [monthly_gain] => 0.35
+            [total_gain] => -13.61
+            [annualized_gain] => -13.61
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013968] => Array
+        (
+            [symbol] => ZH013968
+            [market] => cn
+            [name] => 洋洋洋
+            [net_value] => 1.2615
+            [daily_gain] => 0.81
+            [monthly_gain] => -0.18
+            [total_gain] => 26.15
+            [annualized_gain] => 26.15
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013969] => Array
+        (
+            [symbol] => ZH013969
+            [market] => cn
+            [name] => 天招大佛
+            [net_value] => 1.1526
+            [daily_gain] => -0.34
+            [monthly_gain] => 4.85
+            [total_gain] => 15.26
+            [annualized_gain] => 15.26
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013970] => Array
+        (
+            [symbol] => ZH013970
+            [market] => cn
+            [name] => 独门绝股
+            [net_value] => 0.9734
+            [daily_gain] => 0.21
+            [monthly_gain] => 1.32
+            [total_gain] => -2.66
+            [annualized_gain] => -2.66
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013971] => Array
+        (
+            [symbol] => ZH013971
+            [market] => us
+            [name] => 汉堡包组合
+            [net_value] => 0.9910
+            [daily_gain] => 0.93
+            [monthly_gain] => -2.05
+            [total_gain] => -0.90
+            [annualized_gain] => -0.90
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013972] => Array
+        (
+            [symbol] => ZH013972
+            [market] => cn
+            [name] => 道听途说
+            [net_value] => 1.1207
+            [daily_gain] => 0.58
+            [monthly_gain] => 2.94
+            [total_gain] => 12.07
+            [annualized_gain] => 12.07
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013973] => Array
+        (
+            [symbol] => ZH013973
+            [market] => cn
+            [name] => 牛市金融蓝筹
+            [net_value] => 1.1570
+            [daily_gain] => -1.38
+            [monthly_gain] => -2.92
+            [total_gain] => 15.70
+            [annualized_gain] => 15.70
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013974] => Array
+        (
+            [symbol] => ZH013974
+            [market] => us
+            [name] => 暂时买不到的美股
+            [net_value] => 0.9443
+            [daily_gain] => 0.18
+            [monthly_gain] => -1.34
+            [total_gain] => -5.57
+            [annualized_gain] => -5.57
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013975] => Array
+        (
+            [symbol] => ZH013975
+            [market] => cn
+            [name] => 是骡子是马咱溜溜
+            [net_value] => 0.9955
+            [daily_gain] => 4.30
+            [monthly_gain] => 10.55
+            [total_gain] => -0.45
+            [annualized_gain] => -0.45
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013976] => Array
+        (
+            [symbol] => ZH013976
+            [market] => cn
+            [name] => 价值投资
+            [net_value] => 1.2330
+            [daily_gain] => 0.43
+            [monthly_gain] => 4.98
+            [total_gain] => 23.30
+            [annualized_gain] => 23.30
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013977] => Array
+        (
+            [symbol] => ZH013977
+            [market] => cn
+            [name] => 木水
+            [net_value] => 0.9918
+            [daily_gain] => 0.17
+            [monthly_gain] => -4.00
+            [total_gain] => -0.82
+            [annualized_gain] => -0.82
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013978] => Array
+        (
+            [symbol] => ZH013978
+            [market] => cn
+            [name] => 牛屎
+            [net_value] => 1.0311
+            [daily_gain] => 0.98
+            [monthly_gain] => -3.91
+            [total_gain] => 3.11
+            [annualized_gain] => 3.11
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013979] => Array
+        (
+            [symbol] => ZH013979
+            [market] => cn
+            [name] => xszh
+            [net_value] => 1.1744
+            [daily_gain] => 0.52
+            [monthly_gain] => -3.33
+            [total_gain] => 17.44
+            [annualized_gain] => 17.44
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013980] => Array
+        (
+            [symbol] => ZH013980
+            [market] => cn
+            [name] => 瞎凑了几只西示
+            [net_value] => 1.0316
+            [daily_gain] => 0.37
+            [monthly_gain] => 5.46
+            [total_gain] => 3.16
+            [annualized_gain] => 3.16
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013981] => Array
+        (
+            [symbol] => ZH013981
+            [market] => cn
+            [name] => 随便买买
+            [net_value] => 0.8252
+            [daily_gain] => 2.79
+            [monthly_gain] => 5.47
+            [total_gain] => -17.48
+            [annualized_gain] => -17.48
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013982] => Array
+        (
+            [symbol] => ZH013982
+            [market] => cn
+            [name] => 宇宙基金
+            [net_value] => 1.0595
+            [daily_gain] => 0.10
+            [monthly_gain] => 1.38
+            [total_gain] => 5.95
+            [annualized_gain] => 5.95
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013983] => Array
+        (
+            [symbol] => ZH013983
+            [market] => cn
+            [name] => 死猪不怕开水烫
+            [net_value] => 0.9265
+            [daily_gain] => 2.27
+            [monthly_gain] => 6.46
+            [total_gain] => -7.35
+            [annualized_gain] => -7.35
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013984] => Array
+        (
+            [symbol] => ZH013984
+            [market] => cn
+            [name] => 什么热炒什么
+            [net_value] => 1.3755
+            [daily_gain] => 0.91
+            [monthly_gain] => -0.54
+            [total_gain] => 37.55
+            [annualized_gain] => 37.55
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013985] => Array
+        (
+            [symbol] => ZH013985
+            [market] => cn
+            [name] => 重型坦克
+            [net_value] => 1.5417
+            [daily_gain] => 0.28
+            [monthly_gain] => 0.59
+            [total_gain] => 54.17
+            [annualized_gain] => 54.17
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013986] => Array
+        (
+            [symbol] => ZH013986
+            [market] => cn
+            [name] => 好的好的
+            [net_value] => 1.3473
+            [daily_gain] => -0.33
+            [monthly_gain] => 7.54
+            [total_gain] => 34.73
+            [annualized_gain] => 34.73
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013987] => Array
+        (
+            [symbol] => ZH013987
+            [market] => cn
+            [name] => 实际持仓
+            [net_value] => 1.1074
+            [daily_gain] => 0.33
+            [monthly_gain] => 0.58
+            [total_gain] => 10.74
+            [annualized_gain] => 10.74
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013988] => Array
+        (
+            [symbol] => ZH013988
+            [market] => us
+            [name] => 狗屎
+            [net_value] => 0.9287
+            [daily_gain] => 1.97
+            [monthly_gain] => -1.95
+            [total_gain] => -7.13
+            [annualized_gain] => -7.13
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013989] => Array
+        (
+            [symbol] => ZH013989
+            [market] => cn
+            [name] => 自由之光
+            [net_value] => 1.2119
+            [daily_gain] => 2.01
+            [monthly_gain] => 2.20
+            [total_gain] => 21.19
+            [annualized_gain] => 21.19
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013990] => Array
+        (
+            [symbol] => ZH013990
+            [market] => cn
+            [name] => 无厘头
+            [net_value] => 1.1509
+            [daily_gain] => -0.65
+            [monthly_gain] => 7.44
+            [total_gain] => 15.09
+            [annualized_gain] => 15.09
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013991] => Array
+        (
+            [symbol] => ZH013991
+            [market] => cn
+            [name] => 稳健宝
+            [net_value] => 1.0083
+            [daily_gain] => 0.30
+            [monthly_gain] => 3.24
+            [total_gain] => 0.83
+            [annualized_gain] => 0.83
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013992] => Array
+        (
+            [symbol] => ZH013992
+            [market] => cn
+            [name] => 银行股涨起来
+            [net_value] => 1.2894
+            [daily_gain] => 0.84
+            [monthly_gain] => 1.23
+            [total_gain] => 28.94
+            [annualized_gain] => 28.94
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013993] => Array
+        (
+            [symbol] => ZH013993
+            [market] => cn
+            [name] => 班道一号
+            [net_value] => 1.3336
+            [daily_gain] => -0.60
+            [monthly_gain] => 0.70
+            [total_gain] => 33.36
+            [annualized_gain] => 33.36
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013994] => Array
+        (
+            [symbol] => ZH013994
+            [market] => cn
+            [name] => 德盛新能源1期
+            [net_value] => 0.9732
+            [daily_gain] => 1.65
+            [monthly_gain] => 4.78
+            [total_gain] => -2.68
+            [annualized_gain] => -2.68
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013995] => Array
+        (
+            [symbol] => ZH013995
+            [market] => cn
+            [name] => 你们跑不赢我
+            [net_value] => 1.0847
+            [daily_gain] => 4.53
+            [monthly_gain] => 15.47
+            [total_gain] => 8.47
+            [annualized_gain] => 8.47
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013996] => Array
+        (
+            [symbol] => ZH013996
+            [market] => cn
+            [name] => 美丽中国
+            [net_value] => 1.4264
+            [daily_gain] => -0.80
+            [monthly_gain] => 5.38
+            [total_gain] => 42.64
+            [annualized_gain] => 42.64
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013997] => Array
+        (
+            [symbol] => ZH013997
+            [market] => cn
+            [name] => 子晋
+            [net_value] => 1.3543
+            [daily_gain] => 1.23
+            [monthly_gain] => 3.26
+            [total_gain] => 35.43
+            [annualized_gain] => 35.43
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013998] => Array
+        (
+            [symbol] => ZH013998
+            [market] => cn
+            [name] => Alex的世界
+            [net_value] => 1.0104
+            [daily_gain] => 2.57
+            [monthly_gain] => 9.27
+            [total_gain] => 1.04
+            [annualized_gain] => 1.04
+            [hasexist] => false
+        )
+
+)
+Array
+(
+    [ZH013999] => Array
+        (
+            [symbol] => ZH013999
+            [market] => cn
+            [name] => 三生万物
+            [net_value] => 0.9597
+            [daily_gain] => -1.08
+            [monthly_gain] => -3.72
+            [total_gain] => -4.03
+            [annualized_gain] => -4.03
+            [hasexist] => false
+        )
+
+)
