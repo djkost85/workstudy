@@ -1,0 +1,4 @@
+edp_number,sku,grouped_skus,images_detail,icons,base_specs,unicorn_number,tool_materials,name,attribute_set,type,product_type_id,category_ids,product_websites,description,price,short_description,status,visibility,weight,tax_class_id,qty,image
+11020,product001,,,,,,3S MILLS 2FL Square E/M,3S MILLS 2FL Square E/M,drill_group,simple,simple,"3,4,10",base,3S MILLS 2FL Square E/M,1,3S MILLS 2FL Square E/M,1,1,1,4,10,
+11021,product002,,,,,,3S MILLS 2FL Square E/M,3S MILLS 2FL Square E/M,drill_group,simple,simple,"3,4,10",base,3S MILLS 2FL Square E/M,11,3S MILLS 2FL Square E/M,1,1,1,4,10,
+11022,product,"product001,product002",,,,,3S MILLS 2FL Square E/M,3S MILLS 2FL Square E/M,default,grouped,grouped,"3,4,10",base,3S MILLS 2FL Square E/M,11,3S MILLS 2FL Square E/M,1,1,1,4,10,product_drill_6.jpg

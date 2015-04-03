@@ -1,0 +1,297 @@
+<?php
+/**
+ * 服务器端更新类，用于远程采集和远程下载
+ * @author Askuy <yoyoloves@qq.com>
+ */
+	ini_set('display_errors', 1);
+	error_reporting(E_ALL);
+	include('/alidata/www/phpwind/gy/curl.class.php');
+
+	//$cube_str = get_cube_str();
+	//组合代码按照周收益排序前十
+	//$cube_week_data = get_week_data($cube_str,10);
+	
+	//$cube_str = str_replace('|',',',get_feb_cube());  //20150310
+	
+
+	//将组合代码排序
+	//自定义最优先
+	//$cube_day = array_unique(array_merge($cube_day,array_intersect($cube_week,$cube_month)));
+ 	
+
+	//$cube_week = array('ZH010389','ZH176890','ZH183384');
+	
+	//$mail = array('496704827@qq.com');
+	//foreach(array_filter($cube_week) as $k=>$v){
+	//	sendMail($v,$mail,'496704827');
+	//}
+	 //'ZH003694' 东坡一号 
+	//$cube_filter = array('ZH168734','ZH076110','ZH003694','ZH030292','ZH003945','ZH193350');
+	//$cube_filter = array('ZH003694');
+	//$mail = array('2629798245@qq.com');
+	//foreach(array_filter($cube_filter) as $k=>$v){
+		//sendMail($v,$mail,'2629798245');
+	//} 
+	
+	
+
+	//获得日收益前几名的cube值 基于1
+	function get_this_week_data($cube_str,$limit){
+		//$week = (int)date('W',time())-1;//上周
+		$week = 10;
+		$arr = explode(',',$cube_str);
+		
+		//$get_daily_gain = get_daily_gain($cube_str,'daily_gain');
+		foreach(array_filter($arr) as $k=>$v){
+			$file = '/alidata/www/phpwind/gy/weekdata/'.$week.'/'.$v.'_daily_gain_'.$week.'.txt';
+			$cube_week[$v] = file_get_contents($file);
+		/* 	$nextweek = $week+1;
+			$file = '/alidata/www/phpwind/gy/weekdata/'.$nextweek.'/'.$v.'_daily_gain_'.$nextweek.'.txt';
+			if(is_file($file)){
+				$cube_week[$v] .= file_get_contents($file);
+			}else{
+				file_put_contents($file,'');
+			} */
+			$total[$v] = array_filter(explode('|',$cube_week[$v]));
+			$total_num = 1;
+			foreach($total[$v] as $key=>$value){
+				$total_num *= 10.5+$value; 				
+			}
+			
+			//$total_num *= 10.5 + $get_daily_gain[$v];
+			$sqt_num = count($total[$v]);
+			$cube_week_data[$v] = $total_num/pow(10,$sqt_num);
+			$cube_week_data[$v] = number_format($cube_week_data[$v],4);
+		}
+		arsort($cube_week_data);
+		$i = 0;
+		foreach($cube_week_data as $k=>$v){		
+			if($i < $limit && get_trade_times($k) > 0){
+				$cube_week_arr[] = $k;
+				$i++;
+				//file_put_contents('/alidata/www/phpwind/gy/test.txt',$v.'|',FILE_APPEND);
+			}
+		}
+		return $cube_week_arr;
+	}
+	//获得日收益前几名的cube值 基于以往投资
+	function get_week_data($cube_str,$limit){
+		//$week = (int)date('W',time())-1;//上周
+		$week = 10;
+		$arr = explode(',',$cube_str);
+		
+		//$get_daily_gain = get_daily_gain($cube_str,'daily_gain');
+		foreach(array_filter($arr) as $k=>$v){
+			$file = '/alidata/www/phpwind/gy/weekdata/'.$week.'/'.$v.'_daily_gain_'.$week.'.txt';
+			$cube_week[$v] = file_get_contents($file);
+		/* 	$nextweek = $week+1;
+			$file = '/alidata/www/phpwind/gy/weekdata/'.$nextweek.'/'.$v.'_daily_gain_'.$nextweek.'.txt';
+			if(is_file($file)){
+				$cube_week[$v] .= file_get_contents($file);
+			}else{
+				file_put_contents($file,'');
+			} */
+			$total[$v] = array_filter(explode('|',$cube_week[$v]));
+			$total_num = 1;
+			foreach($total[$v] as $key=>$value){
+				$total_num *= 10.5+$value; 				
+			}
+			
+			//$total_num *= 10.5 + $get_daily_gain[$v];
+			$sqt_num = count($total[$v]);
+			$cube_week_data[$v] = $total_num/pow(10,$sqt_num);
+			$cube_week_data[$v] = number_format($cube_week_data[$v],4);
+		}
+			
+		//arsort($cube_week_data);//array('ZH002754'=>'1.1*1.2',)自然算法由小到大排序
+		$get_total_gain = get_daily_gain($cube_str,'total_gain');
+		foreach($cube_week_data as $k=>$v){
+			$cube_weeks[$k] =(150*$v +$get_total_gain[$k])/2;					
+		}
+		arsort($cube_weeks);
+		$i = 0;
+		foreach($cube_weeks as $k=>$v){		
+			//if($i < $limit && get_trade_times($k) > 0){ //之前代码判断两周内需要有交易
+			if($i < $limit){
+				$cube_week_arr[] = $k;
+				$i++;
+				//file_put_contents('/alidata/www/phpwind/gy/test.txt',$v.'|',FILE_APPEND);
+			}
+		}
+		return $cube_week_arr;
+	}	
+	//每日10-15点生成数据，仅存放一天的全月和全天记录，比例为0.75+0.25
+	//$type total_gain  daily_gain
+	function get_daily_gain($cube_str,$type){
+		//$week = (int)date('W',time());
+		$week = 10;
+		$file_path = '/alidata/www/phpwind/gy/daysdata/cubedata_'.$type.'_'.$week.'.txt';				
+		$daily_gain_cube = file_get_contents($file_path);
+		$daily_cube = explode('|',$daily_gain_cube);
+		foreach(array_filter(array_unique($daily_cube)) as $k=>$v){
+			$arr = explode('+',$v);
+			$cube_arr[$arr[0]] = $arr[1];//array('ZH087961'=>'88.16')
+		}
+				
+		return $cube_arr;
+	}
+	
+
+		//获得近两周交易次数,$k=0表示最近两周都没有交易
+	function get_trade_times($cube_symbol){
+		$url = 'http://xueqiu.com/cubes/rebalancing/history.json?cube_symbol='.$cube_symbol.'&count=20&page=1';
+		$response = task($url);
+		$arr = json_decode($response,TRUE);	
+		$i = 0;
+		foreach(array_reverse($arr['list']) as $k=>$v){
+			$s = $v['updated_at']/1000;//交易时间
+			$last_monday = strtotime("-2 weeks monday");
+			if($s - $last_monday > 0){  //两周之内没有交易
+				$i++;
+			}
+		}
+		
+		return $i;
+	}
+	//$user_id = '4159443988';
+	//$mail = '496704827@qq.com';
+	//sendRealMail($user_id,$mail);
+	//file_put_contents('/alidata/www/phpwind/gy/gettime.txt',print_r(array_merge($cube_day,$cube_manuals),true),FILE_APPEND);
+
+ 	$now = date('H-i',time());
+	if($now == '09-15'){
+		sendTopMail();
+	} 
+	
+	function sendTopMail(){
+			$cube_symbol = 'ZH010389';
+			$url = 'http://xueqiu.com/cubes/rebalancing/history.json?cube_symbol='.$cube_symbol.'&count=20&page=1';
+			$response = task($url);
+			$arr = json_decode($response,TRUE);		    
+			$str = $arr['list'][0]['rebalancing_histories'][0]['stock_name'];					
+			$headers  = 'MIME-Version: 1.0' . "\r\n";
+			$headers .= 'Content-type: text/plain; charset=utf-8' . "\r\n";
+			$mail = '2629798245@qq.com';				
+			mail($mail,"it's ok",$str,$headers);
+			
+	}
+	
+	function sendNowMail(){
+	    //$days = (int)date('z',time()); //第几天 
+		//$str = file_get_contents('/alidata/www/phpwind/gy/topdata/daily_gain_'.$days.'.txt');
+		//$cubeArr = explode('|',$str);
+		$cube_week = array('ZH010389','ZH176890','ZH076110');
+		foreach(array_filter($cube_week) as $k => $v){
+			//$cube_symbol = substr($v,0,8);
+			$cube_symbol = $v;
+			$url = 'http://xueqiu.com/cubes/rebalancing/history.json?cube_symbol='.$cube_symbol.'&count=20&page=1';
+			$response = task($url);
+			$arr = json_decode($response,TRUE);	
+			$cube_name = get_cube_name($cube_symbol);
+			$i = 0;
+			$str =' on hoding '."\r\n";
+			foreach($cube_name as $cube_key=>$cube_value){
+				$str.=$cube_key.' : '.$cube_value."\r\n";
+			}
+			$str .="\r\n";
+			$weight = 0;
+			foreach($arr['list'] as $k=>$v){
+				$i++;
+				if($i > 2){break;}
+				foreach($v['rebalancing_histories'] as $key=>$value){				    
+				    $weight +=$value['weight'];
+					if($weight <= 100 && $value['weight'] > 0){
+						$str .= $value['stock_name'].' : '.$value['weight'].' with price :'.$value['price'];
+						$str .="\r\n";						
+					}			
+				}				
+			}
+			$date = date('m-d',time());
+			$headers  = 'MIME-Version: 1.0' . "\r\n";
+			$headers .= 'Content-type: text/plain; charset=utf-8' . "\r\n";
+			$mail = '496704827@qq.com';				
+			mail($mail,$cube_symbol.'_top',$str,$headers);
+		}	
+	}
+	
+
+	//file_put_contents('/alidata/www/phpwind/gy/gettime.txt',print_r(array_merge($cube_day,$cube_manuals),true),FILE_APPEND);
+	function sendMail($cube_symbol,$mails,$folder){
+		//$response = $http->call('http://xueqiu.com/cubes/rebalancing/history.json','GET',array('cube_symbol'=>$cube_symbol,'count'=>20,'page'=>1));
+		$url = 'http://xueqiu.com/cubes/rebalancing/history.json?cube_symbol='.$cube_symbol.'&count=20&page=1';
+		$response = task($url);
+		$arr = json_decode($response,TRUE);	
+		foreach($mails as $mail){
+			$file = '/alidata/www/phpwind/gy/'.$folder.'/'.$cube_symbol.'_'.$mail.'.txt';				
+			if(!is_file($file)){
+				file_put_contents($file,strtotime("today"));//-3 day
+				//file_put_contents($file,strtotime("-3 day"));//-3 day
+			}	
+		
+			$cube_name = get_cube_name($cube_symbol);
+			foreach(array_reverse($arr['list']) as $k=>$v){
+				$s = $v['updated_at']/1000;//交易时间
+				$lasttime = file_get_contents($file);
+				if($s - $lasttime > 0){
+					$status = ($v['status']=='success')?'':'cancel';
+					$str =$status.' '.date('Y-m-d H:i:s',$s)."\r\n";
+					foreach($cube_name as $cube_key=>$cube_value){
+						$str.=$cube_key.' : '.$cube_value."\r\n";
+					}
+					$str .="\r\n";
+					foreach($v['rebalancing_histories'] as $key=>$value){
+						$prev_weight_adjusted = empty($value['prev_weight_adjusted'])?'0':$value['prev_weight_adjusted'];
+						$str .= $value['stock_name'].': '.$prev_weight_adjusted.' to '.$value['weight'].' with price: '.$value['price']."\r\n";				
+					}
+						$sendTime = date('H:i:s',time());
+						// To send HTML mail, the Content-type header must be set
+						$headers  = 'MIME-Version: 1.0' . "\r\n";
+						$headers .= 'Content-type: text/plain; charset=utf-8' . "\r\n";
+						mail($mail,$sendTime.' '.$cube_symbol,$str,$headers);									
+					file_put_contents($file,$s);
+				}
+				//file_put_contents('/alidata/www/phpwind/gy/log.txt',print_r($str,TRUE),FILE_APPEND);
+			}
+		}
+	}
+	//通过传递过来的cube_str值来查询参数，返回name,month_gain,total_gain
+	function get_cube_name($cube_str){
+		$url = 'http://xueqiu.com/cubes/quote.json?code='.$cube_str;
+		$response = task($url);
+		$arr = json_decode($response,TRUE);
+		return array('name'=>$arr[$cube_str]['name'],'monthly_gain'=>$arr[$cube_str]['monthly_gain'],'total_gain'=>$arr[$cube_str]['total_gain']);
+	}
+
+	
+	include('/alidata/www/phpwind/gy/uniq.php');
+	
+
+  
+	function array_sort($arr, $keys, $type = 'desc') {
+		$keysvalue = $new_array = array();
+		foreach ($arr as $k => $v) {
+			$keysvalue[$k] = $v[$keys];
+		}
+		if ($type == 'asc') {
+			asort($keysvalue);
+		} else {
+			arsort($keysvalue);
+		}
+		reset($keysvalue);
+		foreach ($keysvalue as $k => $v) {
+			$new_array[$k] = $arr[$k];
+		}
+		return $new_array;
+	}
+
+	
+	
+
+	
+	
+	
+
+	
+
+	
+	

@@ -1,0 +1,4 @@
+*/1 9-15 * * 1-5 /alidata/www/phpwind/gy/test.sh
+10 15 * * 1-5 /alidata/www/phpwind/gy/week.sh
+10 9-15 * * 1-5 /alidata/www/phpwind/gy/days.sh
+*/1 * 3 * * /alidata/www/phpwind/gy/month.sh

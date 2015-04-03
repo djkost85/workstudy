@@ -1,0 +1,11 @@
+improved navigation
+
+php shell/indexer.php --reindex catalog_category_product
+
+php shell/indexer.php reindexall
+
+
+/index.php/catalog/product/view/id/27
+
+
+E:/wamp/bin/php/php5.3.10/php.exe  E:/wamp/www/json.php

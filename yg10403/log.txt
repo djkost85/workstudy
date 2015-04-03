@@ -1,0 +1,125 @@
+1. configurator
+2. ¹ºÂòÒ³ÃæµÄfilter
+3. shipping
+
+
+
+Meeting Notes 01/27/2015
+- Vendor (manufacturer) for group product and simple product
+- Category level 1 > Category level 2 > Group prodcut > Simple product
+- Product image in a folder with standard name format
+- Server purchase and setup
+- File limitation research
+- SAP intergration
+ 
+Next Step
+Cherry
+- Schedule for YG1
+ 
+Martin
+- Research on the spread sheet of product
+- Update data model/spread sheet(vendor)
+- Order API
+- Re-order research
+- Dev site
+ 
+De Gi
+- Order API approvea
+- Product CSV approve
+- Invoice for the temp server
+- Update the site map
+- Wireframe for homepage
+ 
+ 
+Meeting Notes 01/20/2015
+- Site map and wireframe 01/27/2015 01/28/2015
+- Requirement
+- Selectable icon in the backend
+- Re-order for customer
+- Quick order pad
+- Pre-order with discount
+- Affiliate with Tag and affiliate No.
+- Register with affiliate ID.
+- Responsive web design
+- Policy contents
+- Video by YOUKU
+- QQ with live chat
+- Report for which product page the customer came from
+- One product for Endmill > X5070 > Product Name > EDP No. (Up to 60?)
+- RMA - return merchandise
+- Pictogram maunally
+- JSON for order the end of this week
+- Range for price under product
+- Weekly report
+- De Gi account in fogbugz
+ 
+Next Step
+Saul
+- JSON for order the end of this week
+- One product for Endmill > X5070 > Product Name > EDP No. (Up to 60?)
+- De Gi account in fogbugz
+- Buy server for two or three month
+- Weekly report for schedule/sample
+- Daily chatting
+- Product merchandising URL from TMALL
+ 
+Meeting Itinerary
+- Product catagory (14000 products)
+- Product detail
+- Wechat integration
+ 
+Meeting Notes
+General
+- Configurable product
+- 4 Base specs (size and dimensions) from SAP
+- Unicorn No. (Eight digis)
+- 4 - 6Specs/Name/Two pics/Price/EDP/Short description/Icons
+- Catagory Level 1 > Catagory Level 2 > Catagory Level 3 > Product Name > Option
+with specified EDP No.
+- Product image matching TBD
+- Icon stands for standard TBD
+- Short description TBD
+- Service API under development (End of Jan)
+- End of April to launch
+- Product API middle of Feb
+ 
+Next Step
+Saul
+- CSV sample
+- Sort the icon
+- Catagory structure analytic
+- Price per product or price per EDP?
+ 
+Planning Meeting Itinerary
+- Plumbing checklist
+- To do list
+- Product catagory (14520?? products)
+- Product detail
+- Wechat integration
+ 
+Meeting Note
+General
+- Product list Thursday
+- Attribute in SAP only contain height/width/etc
+- Information will be given in two days
+- Dev environment for JINGdigital
+- APIs from SAP
+- Research on Silk
+- Product import format
+- Product data model
+- Research on Alicloud
+- Weekly meeting 
+ 
+APIs
+- Product
+- CSV dump
+- Order
+- Stock matching
+- Manually manage magento for order 
+- Stock dump
+- Daily Order Batch for delivery
+- APIs from magento (TBD who use this)
+- Customer
+- Unicorn only
+
+

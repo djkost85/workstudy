@@ -1,0 +1,39 @@
+category_ids
+
+Endmill:  3,7
+-Ball  3,7,16
+-Radius  3,7,17
+-Square  3,7,18
+-Taper ball  3,7,19
+-Taper radius  3,7,20
+-Taper square  3,7,23
+
+Drill:  3,8
+-Center  3,8,39
+-Normal  3,8,40
+-Sets  3,8,41
+-NC  3,8,42
+-TS  3,8,43
+
+Tap & Reamer:  3,4
+-General Tap  3,4,28
+-Set Tap  3,4,66
+-Brazing Endmill General  3,4,67
+-Chucking Reamer  3,4,68
+-Taper Reamer  3,4,69
+-Hand Reamer  3,4,70
+
+
+Milling:  3,6
+-Genearl Thread Mill   3,6,9
+-General Milling Cutter   3,6,10
+-Angle Milling Cutter   3,6,11
+-Flat Milling Cutter   3,6,12
+-Corner Rounding Milling Cutter   3,6,13
+
+
+ETC:  3,5
+-General Counter Bore  3,5,29
+-General Counter Sink  3,5,30
+-General Rotary Burr  3,5,31
+-Anglel Rotary Burr  3,5,32

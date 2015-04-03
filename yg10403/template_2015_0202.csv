@@ -1,0 +1,4 @@
+edp_number,sku,grouped_skus,images_detail,icons,vender_name,corner_radius,mill_diameter,shank_diameter,cut_length,mill_number,overall_length,tool_materials,name,attribute_set,type,product_type_id,category_ids,description,price,short_description,status,qty,image
+CG3S010003,DRILL001,,,,,,0.03,4,0.04,,40,,,Simpled_product,simple,simple,"3,4",,1,,1,10,
+CG3S010004,DRILL002,,,,,,0.04,4,0.06,,40,,,Simpled_product,simple,simple,"3,4",,11,,1,10,
+,DRILL,"DRILL001,DRILL002",product_drill.jpg,"Coating_Bright,Helix_Square_45,2Fl,Finish_type_for_Aluminium,Shank_Flat_YG1_Standard,Material_MGHM,YG STD,Move_Square_Side_cutting",YG1,,,,,,,3S MILLS 2FL Square E/M(customer input fields),3S MILLS 2FL Square E/M,Grouped_product,grouped,grouped,"3,4",3S MILLS 2FL Square E/M,11,3S MILLS 2FL Square E/M,1,,product_drill_6.jpg
